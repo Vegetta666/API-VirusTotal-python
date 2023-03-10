@@ -1,0 +1,2566 @@
+[26:10:22/18:37:50:247735] 
+ 
+[26:10:22/18:37:50:247735] (=================================================================) 
+[26:10:22/18:37:50:248741] Archiu 1 ejecutatse 
+[26:10:22/18:37:50:250737] (=================================================================) 
+[26:10:22/18:37:50:250737] 
+ 
+[26:10:22/18:37:50:253749] 
+ 
+[26:10:22/18:37:50:254771] (=================================================================) 
+[26:10:22/18:37:50:255758] Archiu : 50711.asm Escanajat Correctament 
+[26:10:22/18:37:50:257759] Archiu PETIT detectat correctament -->  50711.asm 
+[26:10:22/18:37:51:309761] ID del archiu 50711.asm obtingut correctament 
+[26:10:22/18:37:51:311743] Escriure log ID 
+[26:10:22/18:37:51:312741] (=================================================================) 
+[26:10:22/18:37:51:312741] 
+ 
+[26:10:22/18:37:51:313744] (=================================================================) 
+[26:10:22/18:37:51:313744] Archiu : 50722.asm Escanajat Correctament 
+[26:10:22/18:37:51:314744] Archiu PETIT detectat correctament -->  50722.asm 
+[26:10:22/18:37:52:032753] ID del archiu 50722.asm obtingut correctament 
+[26:10:22/18:37:52:032753] Escriure log ID 
+[26:10:22/18:37:52:033749] (=================================================================) 
+[26:10:22/18:37:52:034749] 
+ 
+[26:10:22/18:37:52:034749] (=================================================================) 
+[26:10:22/18:37:52:035752] Archiu : 50710.asm Escanajat Correctament 
+[26:10:22/18:37:52:035752] Archiu PETIT detectat correctament -->  50710.asm 
+[26:10:22/18:37:52:626757] ID del archiu 50710.asm obtingut correctament 
+[26:10:22/18:37:52:627755] Escriure log ID 
+[26:10:22/18:37:52:628757] (=================================================================) 
+[26:10:22/18:37:52:630768] 
+ 
+[26:10:22/18:37:52:631773] (=================================================================) 
+[26:10:22/18:37:52:632755] Archiu : 47296.c Escanajat Correctament 
+[26:10:22/18:37:52:634755] Archiu PETIT detectat correctament -->  47296.c 
+[26:10:22/18:37:53:636303] ID del archiu 47296.c obtingut correctament 
+[26:10:22/18:37:53:637329] Escriure log ID 
+[26:10:22/18:37:53:638300] (=================================================================) 
+[26:10:22/18:37:53:638300] 
+ 
+[26:10:22/18:37:53:639299] (=================================================================) 
+[26:10:22/18:37:53:639299] Archiu : 50369.c Escanajat Correctament 
+[26:10:22/18:37:53:640300] Archiu PETIT detectat correctament -->  50369.c 
+[26:10:22/18:37:54:390325] ID del archiu 50369.c obtingut correctament 
+[26:10:22/18:37:54:392338] Escriure log ID 
+[26:10:22/18:37:54:393333] (=================================================================) 
+[26:10:22/18:37:54:408305] 
+ 
+[26:10:22/18:37:54:408305] (=================================================================) 
+[26:10:22/18:37:54:409307] Archiu : 46679.nasm Escanajat Correctament 
+[26:10:22/18:37:54:410307] Archiu PETIT detectat correctament -->  46679.nasm 
+[26:10:22/18:37:55:092329] ID del archiu 46679.nasm obtingut correctament 
+[26:10:22/18:37:55:093315] Escriure log ID 
+[26:10:22/18:37:55:094310] (=================================================================) 
+[26:10:22/18:37:55:100311] 
+ 
+[26:10:22/18:37:55:100311] (=================================================================) 
+[26:10:22/18:37:55:101311] Archiu : 46680.nasm Escanajat Correctament 
+[26:10:22/18:37:55:102347] Archiu PETIT detectat correctament -->  46680.nasm 
+[26:10:22/18:37:55:921925] ID del archiu 46680.nasm obtingut correctament 
+[26:10:22/18:37:55:922923] Escriure log ID 
+[26:10:22/18:37:55:922923] (=================================================================) 
+[26:10:22/18:37:55:923923] 
+ 
+[26:10:22/18:37:55:924928] (=================================================================) 
+[26:10:22/18:37:55:924928] Archiu : 47239.c Escanajat Correctament 
+[26:10:22/18:37:55:925924] Archiu PETIT detectat correctament -->  47239.c 
+[26:10:22/18:37:56:561931] ID del archiu 47239.c obtingut correctament 
+[26:10:22/18:37:56:562936] Escriure log ID 
+[26:10:22/18:37:56:564938] (=================================================================) 
+[26:10:22/18:37:56:571935] 
+ 
+[26:10:22/18:37:56:571935] (=================================================================) 
+[26:10:22/18:37:56:572931] Archiu : 47242.asm Escanajat Correctament 
+[26:10:22/18:37:56:572931] Archiu PETIT detectat correctament -->  47242.asm 
+[26:10:22/18:37:57:572936] ID del archiu 47242.asm obtingut correctament 
+[26:10:22/18:37:57:573936] Escriure log ID 
+[26:10:22/18:37:57:574936] (=================================================================) 
+[26:10:22/18:37:57:574936] 
+ 
+[26:10:22/18:37:57:575937] (=================================================================) 
+[26:10:22/18:37:57:575937] Archiu : 46394.c Escanajat Correctament 
+[26:10:22/18:37:57:576937] Archiu PETIT detectat correctament -->  46394.c 
+[26:10:22/18:37:58:185957] ID del archiu 46394.c obtingut correctament 
+[26:10:22/18:37:58:187942] Escriure log ID 
+[26:10:22/18:37:58:187942] (=================================================================) 
+[26:10:22/18:37:58:188942] 
+ 
+[26:10:22/18:37:58:189943] (=================================================================) 
+[26:10:22/18:37:58:189943] Archiu : 46395.c Escanajat Correctament 
+[26:10:22/18:37:58:190943] Archiu PETIT detectat correctament -->  46395.c 
+[26:10:22/18:37:58:959949] ID del archiu 46395.c obtingut correctament 
+[26:10:22/18:37:58:960950] Escriure log ID 
+[26:10:22/18:37:58:962980] (=================================================================) 
+[26:10:22/18:37:58:964950] 
+ 
+[26:10:22/18:37:58:966953] (=================================================================) 
+[26:10:22/18:37:58:966953] Archiu : 46396.c Escanajat Correctament 
+[26:10:22/18:37:58:968973] Archiu PETIT detectat correctament -->  46396.c 
+[26:10:22/18:37:59:609953] ID del archiu 46396.c obtingut correctament 
+[26:10:22/18:37:59:610950] Escriure log ID 
+[26:10:22/18:37:59:611951] (=================================================================) 
+[26:10:22/18:37:59:612953] 
+ 
+[26:10:22/18:37:59:612953] (=================================================================) 
+[26:10:22/18:37:59:613953] Archiu : 46493.c Escanajat Correctament 
+[26:10:22/18:37:59:613953] Archiu PETIT detectat correctament -->  46493.c 
+[26:10:22/18:38:00:845069] ID del archiu 46493.c obtingut correctament 
+[26:10:22/18:38:00:846067] Escriure log ID 
+[26:10:22/18:38:00:846067] (=================================================================) 
+[26:10:22/18:38:00:847068] 
+ 
+[26:10:22/18:38:00:848069] (=================================================================) 
+[26:10:22/18:38:00:848069] Archiu : 46256.c Escanajat Correctament 
+[26:10:22/18:38:00:849069] Archiu PETIT detectat correctament -->  46256.c 
+[26:10:22/18:38:01:495791] ID del archiu 46256.c obtingut correctament 
+[26:10:22/18:38:01:495791] Escriure log ID 
+[26:10:22/18:38:01:496791] (=================================================================) 
+[26:10:22/18:38:01:497792] 
+ 
+[26:10:22/18:38:01:497792] (=================================================================) 
+[26:10:22/18:38:01:497792] Archiu : 46257.c Escanajat Correctament 
+[26:10:22/18:38:01:498794] Archiu PETIT detectat correctament -->  46257.c 
+[26:10:22/18:38:02:054798] ID del archiu 46257.c obtingut correctament 
+[26:10:22/18:38:02:056837] Escriure log ID 
+[26:10:22/18:38:02:058843] (=================================================================) 
+[26:10:22/18:38:02:059804] 
+ 
+[26:10:22/18:38:02:061805] (=================================================================) 
+[26:10:22/18:38:02:062824] Archiu : 46275.c Escanajat Correctament 
+[26:10:22/18:38:02:063807] Archiu PETIT detectat correctament -->  46275.c 
+[26:10:22/18:38:02:861809] ID del archiu 46275.c obtingut correctament 
+[26:10:22/18:38:02:862805] Escriure log ID 
+[26:10:22/18:38:02:863803] (=================================================================) 
+[26:10:22/18:38:02:864803] 
+ 
+[26:10:22/18:38:02:864803] (=================================================================) 
+[26:10:22/18:38:02:865807] Archiu : 46277.c Escanajat Correctament 
+[26:10:22/18:38:02:866808] Archiu PETIT detectat correctament -->  46277.c 
+[26:10:22/18:38:03:578808] ID del archiu 46277.c obtingut correctament 
+[26:10:22/18:38:03:579809] Escriure log ID 
+[26:10:22/18:38:03:579809] (=================================================================) 
+[26:10:22/18:38:03:580808] 
+ 
+[26:10:22/18:38:03:580808] (=================================================================) 
+[26:10:22/18:38:03:581812] Archiu : 46393.c Escanajat Correctament 
+[26:10:22/18:38:03:581812] Archiu PETIT detectat correctament -->  46393.c 
+[26:10:22/18:38:04:256873] ID del archiu 46393.c obtingut correctament 
+[26:10:22/18:38:04:259818] Escriure log ID 
+[26:10:22/18:38:04:260817] (=================================================================) 
+[26:10:22/18:38:04:262822] 
+ 
+[26:10:22/18:38:04:263818] (=================================================================) 
+[26:10:22/18:38:04:264829] Archiu : 50917.js Escanajat Correctament 
+[26:10:22/18:38:04:265828] Archiu PETIT detectat correctament -->  50917.js 
+[26:10:22/18:38:05:011825] ID del archiu 50917.js obtingut correctament 
+[26:10:22/18:38:05:012831] Escriure log ID 
+[26:10:22/18:38:05:013823] (=================================================================) 
+[26:10:22/18:38:05:015831] 
+ 
+[26:10:22/18:38:05:016824] (=================================================================) 
+[26:10:22/18:38:05:016824] Archiu : 50925.html Escanajat Correctament 
+[26:10:22/18:38:05:017824] Archiu PETIT detectat correctament -->  50925.html 
+[26:10:22/18:38:05:753869] ID del archiu 50925.html obtingut correctament 
+[26:10:22/18:38:05:754827] Escriure log ID 
+[26:10:22/18:38:05:754827] (=================================================================) 
+[26:10:22/18:38:05:755826] 
+ 
+[26:10:22/18:38:05:756828] (=================================================================) 
+[26:10:22/18:38:05:756828] Archiu : 50943.py Escanajat Correctament 
+[26:10:22/18:38:05:757826] Archiu PETIT detectat correctament -->  50943.py 
+[26:10:22/18:38:06:671843] ID del archiu 50943.py obtingut correctament 
+[26:10:22/18:38:06:673891] Escriure log ID 
+[26:10:22/18:38:06:678854] (=================================================================) 
+[26:10:22/18:38:06:689840] 
+ 
+[26:10:22/18:38:06:692846] (=================================================================) 
+[26:10:22/18:38:06:693840] Archiu : 50944.py Escanajat Correctament 
+[26:10:22/18:38:06:694836] Archiu PETIT detectat correctament -->  50944.py 
+[26:10:22/18:38:07:268654] ID del archiu 50944.py obtingut correctament 
+[26:10:22/18:38:07:269615] Escriure log ID 
+[26:10:22/18:38:07:270615] (=================================================================) 
+[26:10:22/18:38:07:271626] 
+ 
+[26:10:22/18:38:07:272621] (=================================================================) 
+[26:10:22/18:38:07:272621] Archiu : 50945.tzt Escanajat Correctament 
+[26:10:22/18:38:07:274635] Archiu PETIT detectat correctament -->  50945.tzt 
+[26:10:22/18:38:07:964623] ID del archiu 50945.tzt obtingut correctament 
+[26:10:22/18:38:07:966655] Escriure log ID 
+[26:10:22/18:38:07:967622] (=================================================================) 
+[26:10:22/18:38:07:967622] 
+ 
+[26:10:22/18:38:07:968623] (=================================================================) 
+[26:10:22/18:38:07:968623] Archiu : 51009.rb Escanajat Correctament 
+[26:10:22/18:38:07:969623] Archiu PETIT detectat correctament -->  51009.rb 
+[26:10:22/18:38:08:512656] ID del archiu 51009.rb obtingut correctament 
+[26:10:22/18:38:08:513627] Escriure log ID 
+[26:10:22/18:38:08:513627] (=================================================================) 
+[26:10:22/18:38:08:514626] 
+ 
+[26:10:22/18:38:08:514626] (=================================================================) 
+[26:10:22/18:38:08:515627] Archiu : 51010.py Escanajat Correctament 
+[26:10:22/18:38:08:515627] Archiu PETIT detectat correctament -->  51010.py 
+[26:10:22/18:38:09:093629] ID del archiu 51010.py obtingut correctament 
+[26:10:22/18:38:09:094636] Escriure log ID 
+[26:10:22/18:38:09:095630] (=================================================================) 
+[26:10:22/18:38:09:095630] 
+ 
+[26:10:22/18:38:09:096634] (=================================================================) 
+[26:10:22/18:38:09:096634] Archiu : 51011.py Escanajat Correctament 
+[26:10:22/18:38:09:097633] Archiu PETIT detectat correctament -->  51011.py 
+[26:10:22/18:38:09:773637] ID del archiu 51011.py obtingut correctament 
+[26:10:22/18:38:09:774635] Escriure log ID 
+[26:10:22/18:38:09:775635] (=================================================================) 
+[26:10:22/18:38:09:775635] 
+ 
+[26:10:22/18:38:09:776636] (=================================================================) 
+[26:10:22/18:38:09:776636] Archiu : 51014.js Escanajat Correctament 
+[26:10:22/18:38:09:777636] Archiu PETIT detectat correctament -->  51014.js 
+[26:10:22/18:38:10:476644] ID del archiu 51014.js obtingut correctament 
+[26:10:22/18:38:10:478651] Escriure log ID 
+[26:10:22/18:38:10:479646] (=================================================================) 
+[26:10:22/18:38:10:479646] 
+ 
+[26:10:22/18:38:10:480644] (=================================================================) 
+[26:10:22/18:38:10:480644] Archiu : 51016.sh Escanajat Correctament 
+[26:10:22/18:38:10:481643] Archiu PETIT detectat correctament -->  51016.sh 
+[26:10:22/18:38:11:040646] ID del archiu 51016.sh obtingut correctament 
+[26:10:22/18:38:11:041648] Escriure log ID 
+[26:10:22/18:38:11:042658] (=================================================================) 
+[26:10:22/18:38:11:043676] 
+ 
+[26:10:22/18:38:11:044654] (=================================================================) 
+[26:10:22/18:38:11:045647] Archiu : act sai.pdf Escanajat Correctament 
+[26:10:22/18:38:11:046648] Archiu PETIT detectat correctament -->  act sai.pdf 
+[26:10:22/18:38:12:393657] ID del archiu act sai.pdf obtingut correctament 
+[26:10:22/18:38:12:394657] Escriure log ID 
+[26:10:22/18:38:12:395656] (=================================================================) 
+[26:10:22/18:38:12:395656] 
+ 
+[26:10:22/18:38:12:396660] (=================================================================) 
+[26:10:22/18:38:12:396660] Archiu : autor.py Escanajat Correctament 
+[26:10:22/18:38:12:397658] Archiu PETIT detectat correctament -->  autor.py 
+[26:10:22/18:38:12:980669] ID del archiu autor.py obtingut correctament 
+[26:10:22/18:38:12:982665] Escriure log ID 
+[26:10:22/18:38:12:982665] (=================================================================) 
+[26:10:22/18:38:12:984676] 
+ 
+[26:10:22/18:38:12:985665] (=================================================================) 
+[26:10:22/18:38:12:985665] Archiu : DirectX 9.0c Repack.exe Escanajat Correctament 
+[26:10:22/18:38:12:986679] Archiu GRAN detectat correctament --> DirectX 9.0c Repack.exe 
+[26:10:22/18:38:13:484684] URL fixer gran obtinguda correctament 
+[26:10:22/18:38:24:611760] ID del archiu DirectX 9.0c Repack.exe obtingut correctament 
+[26:10:22/18:38:24:629755] Escriure log ID 
+[26:10:22/18:38:24:630756] (=================================================================) 
+[26:10:22/18:38:24:630756] 
+ 
+[26:10:22/18:38:24:631757] (=================================================================) 
+[26:10:22/18:38:24:631757] Archiu : Doc1.docx Escanajat Correctament 
+[26:10:22/18:38:24:632759] Archiu PETIT detectat correctament -->  Doc1.docx 
+[26:10:22/18:38:33:253828] ID del archiu Doc1.docx obtingut correctament 
+[26:10:22/18:38:33:255832] Escriure log ID 
+[26:10:22/18:38:33:256864] (=================================================================) 
+[26:10:22/18:38:33:257847] 
+ 
+[26:10:22/18:38:33:258830] (=================================================================) 
+[26:10:22/18:38:33:258830] Archiu : Ejercicio protocolos.xlsx Escanajat Correctament 
+[26:10:22/18:38:33:259827] Archiu PETIT detectat correctament -->  Ejercicio protocolos.xlsx 
+[26:10:22/18:38:33:943838] ID del archiu Ejercicio protocolos.xlsx obtingut correctament 
+[26:10:22/18:38:33:945866] Escriure log ID 
+[26:10:22/18:38:33:946837] (=================================================================) 
+[26:10:22/18:38:33:947834] 
+ 
+[26:10:22/18:38:33:947834] (=================================================================) 
+[26:10:22/18:38:33:948835] Archiu : ejerciciocompis.py Escanajat Correctament 
+[26:10:22/18:38:33:950854] Archiu PETIT detectat correctament -->  ejerciciocompis.py 
+[26:10:22/18:38:34:558841] ID del archiu ejerciciocompis.py obtingut correctament 
+[26:10:22/18:38:34:560853] Escriure log ID 
+[26:10:22/18:38:34:562839] (=================================================================) 
+[26:10:22/18:38:34:563841] 
+ 
+[26:10:22/18:38:34:563841] (=================================================================) 
+[26:10:22/18:38:34:564855] Archiu : Ex02acces.accdb Escanajat Correctament 
+[26:10:22/18:38:34:564855] Archiu PETIT detectat correctament -->  Ex02acces.accdb 
+[26:10:22/18:38:39:241904] ID del archiu Ex02acces.accdb obtingut correctament 
+[26:10:22/18:38:39:243899] Escriure log ID 
+[26:10:22/18:38:39:244878] (=================================================================) 
+[26:10:22/18:38:39:244878] 
+ 
+[26:10:22/18:38:39:245876] (=================================================================) 
+[26:10:22/18:38:39:245876] Archiu : mecagoen.txt.gpg Escanajat Correctament 
+[26:10:22/18:38:39:246879] Archiu PETIT detectat correctament -->  mecagoen.txt.gpg 
+[26:10:22/18:38:40:261898] ID del archiu mecagoen.txt.gpg obtingut correctament 
+[26:10:22/18:38:40:262885] Escriure log ID 
+[26:10:22/18:38:40:263888] (=================================================================) 
+[26:10:22/18:38:40:268885] 
+ 
+[26:10:22/18:38:40:270935] (=================================================================) 
+[26:10:22/18:38:40:271927] Archiu : Microsoft Visual C++ Pack v5.4 Repack.exe Escanajat Correctament 
+[26:10:22/18:38:40:272884] Archiu GRAN detectat correctament --> Microsoft Visual C++ Pack v5.4 Repack.exe 
+[26:10:22/18:38:40:715891] URL fixer gran obtinguda correctament 
+[26:10:22/18:38:53:995998] ID del archiu Microsoft Visual C++ Pack v5.4 Repack.exe obtingut correctament 
+[26:10:22/18:38:54:011000] Escriure log ID 
+[26:10:22/18:38:54:013001] (=================================================================) 
+[26:10:22/18:38:54:015004] 
+ 
+[26:10:22/18:38:54:015004] (=================================================================) 
+[26:10:22/18:38:54:015997] Archiu : programa.py Escanajat Correctament 
+[26:10:22/18:38:54:016996] Archiu PETIT detectat correctament -->  programa.py 
+[26:10:22/18:38:54:595001] ID del archiu programa.py obtingut correctament 
+[26:10:22/18:38:54:595999] Escriure log ID 
+[26:10:22/18:38:54:595999] (=================================================================) 
+[26:10:22/18:38:54:597018] 
+ 
+[26:10:22/18:38:54:597018] (=================================================================) 
+[26:10:22/18:38:54:598002] Archiu : pro_act1.py Escanajat Correctament 
+[26:10:22/18:38:54:629015] Archiu PETIT detectat correctament -->  pro_act1.py 
+[26:10:22/18:38:55:229006] ID del archiu pro_act1.py obtingut correctament 
+[26:10:22/18:38:55:230007] Escriure log ID 
+[26:10:22/18:38:55:230007] (=================================================================) 
+[26:10:22/18:38:55:231009] 
+ 
+[26:10:22/18:38:55:232012] (=================================================================) 
+[26:10:22/18:38:55:234018] Archiu : script.py Escanajat Correctament 
+[26:10:22/18:38:55:236005] Archiu PETIT detectat correctament -->  script.py 
+[26:10:22/18:38:55:845015] ID del archiu script.py obtingut correctament 
+[26:10:22/18:38:55:846017] Escriure log ID 
+[26:10:22/18:38:55:846017] (=================================================================) 
+[26:10:22/18:38:55:847033] 
+ 
+[26:10:22/18:38:55:848013] (=================================================================) 
+[26:10:22/18:38:55:848013] Archiu : test.py Escanajat Correctament 
+[26:10:22/18:38:55:849014] Archiu PETIT detectat correctament -->  test.py 
+[26:10:22/18:38:56:438016] ID del archiu test.py obtingut correctament 
+[26:10:22/18:38:56:439018] Escriure log ID 
+[26:10:22/18:38:56:439018] (=================================================================) 
+[26:10:22/18:38:56:440015] 
+ 
+[26:10:22/18:38:56:440015] (=================================================================) 
+[26:10:22/18:38:56:441017] Archiu : vt-py-master.zip Escanajat Correctament 
+[26:10:22/18:38:56:442036] Archiu PETIT detectat correctament -->  vt-py-master.zip 
+[26:10:22/18:39:19:844718] ID del archiu vt-py-master.zip obtingut correctament 
+[26:10:22/18:39:19:846675] Escriure log ID 
+[26:10:22/18:39:19:847676] (=================================================================) 
+[26:10:22/18:39:19:847676] 
+ 
+[26:10:22/18:39:19:848674] (=================================================================) 
+[26:10:22/18:39:19:848674] Final Archiu 1 
+[26:10:22/18:39:19:849676] (=================================================================) 
+[26:10:22/18:39:19:849676] 
+ 
+[26:10:22/18:39:20:581680] 
+ 
+[26:10:22/18:39:20:581680] (=================================================================) 
+[26:10:22/18:39:20:581680] Iniciat el Segon Script 
+[26:10:22/18:39:20:582682] (=================================================================) 
+[26:10:22/18:39:20:582682] 
+ 
+[26:10:22/18:39:20:595682] Arhiu log_id obert satisfactoriament 
+[26:10:22/18:39:20:595682] 
+ 
+[26:10:22/18:39:20:596686] (=================================================================) 
+[26:10:22/18:39:20:596686] Linea del archiu llegida correctament 
+[26:10:22/18:39:20:597682] Linea 1: [26:10:22/18:37:51:312741] MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2NjgwMjI3Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm >-->-->Nom_archiu>-->-->  50711.asm 
+[26:10:22/18:39:20:597682] ID separat correctament : MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2NjgwMjI3Mw== 
+[26:10:22/18:39:20:598683] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm 
+[26:10:22/18:39:20:599681] Nom del archiu separat correctament : 50711.asm  
+[26:10:22/18:39:20:961688] Peticio rebuda correctament :) 
+[26:10:22/18:39:20:963694] Analisis extret correctament 
+[26:10:22/18:39:20:964686] Escriure log report 
+[26:10:22/18:39:20:964686] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:39:20:964686] (=================================================================) 
+[26:10:22/18:39:20:965685] 
+ 
+[26:10:22/18:39:20:965685] (=================================================================) 
+[26:10:22/18:39:20:966686] Linea del archiu llegida correctament 
+[26:10:22/18:39:20:966686] Linea 2: [26:10:22/18:37:52:033749] NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2NjgwMjI3NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm >-->-->Nom_archiu>-->-->  50722.asm 
+[26:10:22/18:39:20:967684] ID separat correctament : NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2NjgwMjI3NA== 
+[26:10:22/18:39:20:967684] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm 
+[26:10:22/18:39:20:968686] Nom del archiu separat correctament : 50722.asm  
+[26:10:22/18:39:21:304687] Peticio rebuda correctament :) 
+[26:10:22/18:39:21:305686] Archiu esta an cua ;( 
+[26:10:22/18:39:21:306688] Resposta : 200 
+[26:10:22/18:39:21:306688] Status : queued 
+[26:10:22/18:39:21:307686] Contador : 1 
+[26:10:22/18:39:21:307686] Maxims intens : 4/5 
+[26:10:22/18:39:21:307686] [18:39:21:304687] Temps comenca el temps de espera 
+[26:10:22/18:40:21:312014] [18:39:21:304687] Temps de espera Finalitzat 
+[26:10:22/18:40:21:879004] Peticio rebuda correctament :) 
+[26:10:22/18:40:21:880008] Analisis extret correctament 
+[26:10:22/18:40:21:882007] Escriure log report 
+[26:10:22/18:40:21:882007] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:21:882973] (=================================================================) 
+[26:10:22/18:40:21:882973] 
+ 
+[26:10:22/18:40:21:883975] (=================================================================) 
+[26:10:22/18:40:21:884978] Linea del archiu llegida correctament 
+[26:10:22/18:40:21:884978] Linea 3: [26:10:22/18:37:52:628757] MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2NjgwMjI3NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm >-->-->Nom_archiu>-->-->  50710.asm 
+[26:10:22/18:40:21:885971] ID separat correctament : MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2NjgwMjI3NQ== 
+[26:10:22/18:40:21:885971] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm 
+[26:10:22/18:40:21:886974] Nom del archiu separat correctament : 50710.asm  
+[26:10:22/18:40:22:320978] Peticio rebuda correctament :) 
+[26:10:22/18:40:22:321977] Analisis extret correctament 
+[26:10:22/18:40:22:321977] Escriure log report 
+[26:10:22/18:40:22:322978] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:22:322978] (=================================================================) 
+[26:10:22/18:40:22:323980] 
+ 
+[26:10:22/18:40:22:323980] (=================================================================) 
+[26:10:22/18:40:22:324976] Linea del archiu llegida correctament 
+[26:10:22/18:40:22:324976] Linea 4: [26:10:22/18:37:53:637329] NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2NjgwMjI3Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c >-->-->Nom_archiu>-->-->  47296.c 
+[26:10:22/18:40:22:324976] ID separat correctament : NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2NjgwMjI3Ng== 
+[26:10:22/18:40:22:325975] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c 
+[26:10:22/18:40:22:325975] Nom del archiu separat correctament : 47296.c  
+[26:10:22/18:40:22:759980] Peticio rebuda correctament :) 
+[26:10:22/18:40:22:760985] Analisis extret correctament 
+[26:10:22/18:40:22:764001] Escriure log report 
+[26:10:22/18:40:22:764984] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:22:765998] (=================================================================) 
+[26:10:22/18:40:22:766991] 
+ 
+[26:10:22/18:40:22:768013] (=================================================================) 
+[26:10:22/18:40:22:768986] Linea del archiu llegida correctament 
+[26:10:22/18:40:22:769988] Linea 5: [26:10:22/18:37:54:393333] OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2NjgwMjI3Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c >-->-->Nom_archiu>-->-->  50369.c 
+[26:10:22/18:40:22:769988] ID separat correctament : OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2NjgwMjI3Ng== 
+[26:10:22/18:40:22:770981] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c 
+[26:10:22/18:40:22:770981] Nom del archiu separat correctament : 50369.c  
+[26:10:22/18:40:23:179983] Peticio rebuda correctament :) 
+[26:10:22/18:40:23:180984] Analisis extret correctament 
+[26:10:22/18:40:23:180984] Escriure log report 
+[26:10:22/18:40:23:182005] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:23:182005] (=================================================================) 
+[26:10:22/18:40:23:182983] 
+ 
+[26:10:22/18:40:23:182983] (=================================================================) 
+[26:10:22/18:40:23:183986] Linea del archiu llegida correctament 
+[26:10:22/18:40:23:184994] Linea 6: [26:10:22/18:37:55:093315] NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2NjgwMjI3Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm >-->-->Nom_archiu>-->-->  46679.nasm 
+[26:10:22/18:40:23:184994] ID separat correctament : NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2NjgwMjI3Nw== 
+[26:10:22/18:40:23:184994] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm 
+[26:10:22/18:40:23:185983] Nom del archiu separat correctament : 46679.nasm  
+[26:10:22/18:40:23:669987] Peticio rebuda correctament :) 
+[26:10:22/18:40:23:670990] Analisis extret correctament 
+[26:10:22/18:40:23:673006] Escriure log report 
+[26:10:22/18:40:23:674994] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:23:676008] (=================================================================) 
+[26:10:22/18:40:23:677039] 
+ 
+[26:10:22/18:40:23:678011] (=================================================================) 
+[26:10:22/18:40:23:679001] Linea del archiu llegida correctament 
+[26:10:22/18:40:23:679001] Linea 7: [26:10:22/18:37:55:922923] M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2NjgwMjI3OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm >-->-->Nom_archiu>-->-->  46680.nasm 
+[26:10:22/18:40:23:679988] ID separat correctament : M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2NjgwMjI3OA== 
+[26:10:22/18:40:23:679988] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm 
+[26:10:22/18:40:23:679988] Nom del archiu separat correctament : 46680.nasm  
+[26:10:22/18:40:24:054999] Peticio rebuda correctament :) 
+[26:10:22/18:40:24:056992] Analisis extret correctament 
+[26:10:22/18:40:24:057992] Escriure log report 
+[26:10:22/18:40:24:058991] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:40:24:058991] (=================================================================) 
+[26:10:22/18:40:24:059998] 
+ 
+[26:10:22/18:40:24:061000] (=================================================================) 
+[26:10:22/18:40:24:062024] Linea del archiu llegida correctament 
+[26:10:22/18:40:24:062024] Linea 8: [26:10:22/18:37:56:564938] MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2NjgwMjI3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c >-->-->Nom_archiu>-->-->  47239.c 
+[26:10:22/18:40:24:062024] ID separat correctament : MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2NjgwMjI3OQ== 
+[26:10:22/18:40:24:062991] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c 
+[26:10:22/18:40:24:062991] Nom del archiu separat correctament : 47239.c  
+[26:10:22/18:40:24:356994] Peticio rebuda correctament :) 
+[26:10:22/18:40:24:357994] Archiu esta an cua ;( 
+[26:10:22/18:40:24:358996] Resposta : 200 
+[26:10:22/18:40:24:359993] Status : queued 
+[26:10:22/18:40:24:359993] Contador : 1 
+[26:10:22/18:40:24:360998] Maxims intens : 4/5 
+[26:10:22/18:40:24:362037] [18:40:24:356994] Temps comenca el temps de espera 
+[26:10:22/18:41:24:364268] [18:40:24:356994] Temps de espera Finalitzat 
+[26:10:22/18:41:24:816269] Peticio rebuda correctament :) 
+[26:10:22/18:41:24:819305] Archiu esta an cua ;( 
+[26:10:22/18:41:24:820269] Resposta : 200 
+[26:10:22/18:41:24:820269] Status : queued 
+[26:10:22/18:41:24:821270] Contador : 2 
+[26:10:22/18:41:24:821270] Maxims intens : 3/5 
+[26:10:22/18:41:24:821270] [18:41:24:816269] Temps comenca el temps de espera 
+[26:10:22/18:42:24:823917] [18:41:24:816269] Temps de espera Finalitzat 
+[26:10:22/18:42:25:185922] Peticio rebuda correctament :) 
+[26:10:22/18:42:25:189929] Archiu esta an cua ;( 
+[26:10:22/18:42:25:190923] Resposta : 200 
+[26:10:22/18:42:25:191930] Status : queued 
+[26:10:22/18:42:25:193922] Contador : 3 
+[26:10:22/18:42:25:193922] Maxims intens : 2/5 
+[26:10:22/18:42:25:194913] [18:42:25:186919] Temps comenca el temps de espera 
+[26:10:22/18:43:25:196129] [18:42:25:186919] Temps de espera Finalitzat 
+[26:10:22/18:43:25:597129] Peticio rebuda correctament :) 
+[26:10:22/18:43:25:599129] Archiu esta an cua ;( 
+[26:10:22/18:43:25:600130] Resposta : 200 
+[26:10:22/18:43:25:600130] Status : queued 
+[26:10:22/18:43:25:600130] Contador : 4 
+[26:10:22/18:43:25:601131] Maxims intens : 1/5 
+[26:10:22/18:43:25:601131] [18:43:25:598164] Temps comenca el temps de espera 
+[26:10:22/18:44:25:603855] [18:43:25:598164] Temps de espera Finalitzat 
+[26:10:22/18:44:25:979467] Peticio rebuda correctament :) 
+[26:10:22/18:44:25:982457] Archiu esta an cua ;( 
+[26:10:22/18:44:25:983461] Resposta : 200 
+[26:10:22/18:44:25:983461] Status : queued 
+[26:10:22/18:44:25:984458] Contador : 5 
+[26:10:22/18:44:25:984458] Maxims intens : 0/5 
+[26:10:22/18:44:25:985467] [18:44:25:979467] Temps comenca el temps de espera 
+[26:10:22/18:45:25:986870] [18:44:25:979467] Temps de espera Finalitzat 
+[26:10:22/18:45:26:467871] Peticio rebuda correctament :) 
+[26:10:22/18:45:26:468874] Analisis extret correctament 
+[26:10:22/18:45:26:469882] Escriure log report 
+[26:10:22/18:45:26:470876] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:26:470876] Escriure log malware 
+[26:10:22/18:45:26:473874] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:26:473874] (=================================================================) 
+[26:10:22/18:45:26:474873] 
+ 
+[26:10:22/18:45:26:474873] (=================================================================) 
+[26:10:22/18:45:26:474873] Linea del archiu llegida correctament 
+[26:10:22/18:45:26:475873] Linea 9: [26:10:22/18:37:57:573936] MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2NjgwMjI3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm >-->-->Nom_archiu>-->-->  47242.asm 
+[26:10:22/18:45:26:475873] ID separat correctament : MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2NjgwMjI3OQ== 
+[26:10:22/18:45:26:475873] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm 
+[26:10:22/18:45:26:476873] Nom del archiu separat correctament : 47242.asm  
+[26:10:22/18:45:26:804875] Peticio rebuda correctament :) 
+[26:10:22/18:45:26:805874] Analisis extret correctament 
+[26:10:22/18:45:26:805874] Escriure log report 
+[26:10:22/18:45:26:806876] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:45:26:806876] (=================================================================) 
+[26:10:22/18:45:26:807877] 
+ 
+[26:10:22/18:45:26:807877] (=================================================================) 
+[26:10:22/18:45:26:808883] Linea del archiu llegida correctament 
+[26:10:22/18:45:26:809885] Linea 10: [26:10:22/18:37:58:187942] NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2NjgwMjI4MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c >-->-->Nom_archiu>-->-->  46394.c 
+[26:10:22/18:45:26:811920] ID separat correctament : NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2NjgwMjI4MA== 
+[26:10:22/18:45:26:812911] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c 
+[26:10:22/18:45:26:813898] Nom del archiu separat correctament : 46394.c  
+[26:10:22/18:45:27:192876] Peticio rebuda correctament :) 
+[26:10:22/18:45:27:193875] Analisis extret correctament 
+[26:10:22/18:45:27:193875] Escriure log report 
+[26:10:22/18:45:27:194888] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:27:194888] Escriure log malware 
+[26:10:22/18:45:27:196888] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:27:197875] (=================================================================) 
+[26:10:22/18:45:27:197875] 
+ 
+[26:10:22/18:45:27:197875] (=================================================================) 
+[26:10:22/18:45:27:198875] Linea del archiu llegida correctament 
+[26:10:22/18:45:27:198875] Linea 11: [26:10:22/18:37:58:961954] ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2NjgwMjI4MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c >-->-->Nom_archiu>-->-->  46395.c 
+[26:10:22/18:45:27:199875] ID separat correctament : ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2NjgwMjI4MQ== 
+[26:10:22/18:45:27:199875] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c 
+[26:10:22/18:45:27:199875] Nom del archiu separat correctament : 46395.c  
+[26:10:22/18:45:27:569880] Peticio rebuda correctament :) 
+[26:10:22/18:45:27:570878] Analisis extret correctament 
+[26:10:22/18:45:27:570878] Escriure log report 
+[26:10:22/18:45:27:571877] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:27:571877] Escriure log malware 
+[26:10:22/18:45:27:573879] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:27:573879] (=================================================================) 
+[26:10:22/18:45:27:574880] 
+ 
+[26:10:22/18:45:27:574880] (=================================================================) 
+[26:10:22/18:45:27:575879] Linea del archiu llegida correctament 
+[26:10:22/18:45:27:575879] Linea 12: [26:10:22/18:37:59:610950] Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2NjgwMjI4Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c >-->-->Nom_archiu>-->-->  46396.c 
+[26:10:22/18:45:27:575879] ID separat correctament : Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2NjgwMjI4Mg== 
+[26:10:22/18:45:27:576878] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c 
+[26:10:22/18:45:27:576878] Nom del archiu separat correctament : 46396.c  
+[26:10:22/18:45:28:004895] Peticio rebuda correctament :) 
+[26:10:22/18:45:28:006882] Analisis extret correctament 
+[26:10:22/18:45:28:007883] Escriure log report 
+[26:10:22/18:45:28:008879] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:28:008879] Escriure log malware 
+[26:10:22/18:45:28:010881] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:28:011879] (=================================================================) 
+[26:10:22/18:45:28:011879] 
+ 
+[26:10:22/18:45:28:011879] (=================================================================) 
+[26:10:22/18:45:28:012879] Linea del archiu llegida correctament 
+[26:10:22/18:45:28:012879] Linea 13: [26:10:22/18:38:00:846067] MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2NjgwMjI4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c >-->-->Nom_archiu>-->-->  46493.c 
+[26:10:22/18:45:28:012879] ID separat correctament : MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2NjgwMjI4Mw== 
+[26:10:22/18:45:28:013878] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c 
+[26:10:22/18:45:28:013878] Nom del archiu separat correctament : 46493.c  
+[26:10:22/18:45:28:371880] Peticio rebuda correctament :) 
+[26:10:22/18:45:28:372881] Analisis extret correctament 
+[26:10:22/18:45:28:373884] Escriure log report 
+[26:10:22/18:45:28:374883] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:45:28:374883] (=================================================================) 
+[26:10:22/18:45:28:374883] 
+ 
+[26:10:22/18:45:28:375881] (=================================================================) 
+[26:10:22/18:45:28:375881] Linea del archiu llegida correctament 
+[26:10:22/18:45:28:376882] Linea 14: [26:10:22/18:38:01:496791] ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2NjgwMjI4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c >-->-->Nom_archiu>-->-->  46256.c 
+[26:10:22/18:45:28:376882] ID separat correctament : ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2NjgwMjI4Mw== 
+[26:10:22/18:45:28:377881] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c 
+[26:10:22/18:45:28:377881] Nom del archiu separat correctament : 46256.c  
+[26:10:22/18:45:28:823882] Peticio rebuda correctament :) 
+[26:10:22/18:45:28:825894] Analisis extret correctament 
+[26:10:22/18:45:28:828911] Escriure log report 
+[26:10:22/18:45:28:829889] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:28:829889] Escriure log malware 
+[26:10:22/18:45:28:832895] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:28:833891] (=================================================================) 
+[26:10:22/18:45:28:834919] 
+ 
+[26:10:22/18:45:28:834919] (=================================================================) 
+[26:10:22/18:45:28:835885] Linea del archiu llegida correctament 
+[26:10:22/18:45:28:835885] Linea 15: [26:10:22/18:38:02:057799] Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2NjgwMjI4NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c >-->-->Nom_archiu>-->-->  46257.c 
+[26:10:22/18:45:28:836882] ID separat correctament : Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2NjgwMjI4NA== 
+[26:10:22/18:45:28:836882] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c 
+[26:10:22/18:45:28:837882] Nom del archiu separat correctament : 46257.c  
+[26:10:22/18:45:29:213885] Peticio rebuda correctament :) 
+[26:10:22/18:45:29:215889] Analisis extret correctament 
+[26:10:22/18:45:29:215889] Escriure log report 
+[26:10:22/18:45:29:216901] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:45:29:216901] Escriure log malware 
+[26:10:22/18:45:29:219890] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:45:29:220893] (=================================================================) 
+[26:10:22/18:45:29:220893] 
+ 
+[26:10:22/18:45:29:221885] (=================================================================) 
+[26:10:22/18:45:29:221885] Linea del archiu llegida correctament 
+[26:10:22/18:45:29:221885] Linea 16: [26:10:22/18:38:02:862805] MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2NjgwMjI4NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c >-->-->Nom_archiu>-->-->  46275.c 
+[26:10:22/18:45:29:222884] ID separat correctament : MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2NjgwMjI4NQ== 
+[26:10:22/18:45:29:222884] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c 
+[26:10:22/18:45:29:222884] Nom del archiu separat correctament : 46275.c  
+[26:10:22/18:45:29:616890] Peticio rebuda correctament :) 
+[26:10:22/18:45:29:617885] Archiu esta an cua ;( 
+[26:10:22/18:45:29:618887] Resposta : 200 
+[26:10:22/18:45:29:619884] Status : queued 
+[26:10:22/18:45:29:619884] Contador : 1 
+[26:10:22/18:45:29:619884] Maxims intens : 4/5 
+[26:10:22/18:45:29:620886] [18:45:29:616890] Temps comenca el temps de espera 
+[26:10:22/18:46:29:622932] [18:45:29:616890] Temps de espera Finalitzat 
+[26:10:22/18:46:30:278941] Peticio rebuda correctament :) 
+[26:10:22/18:46:30:279968] Analisis extret correctament 
+[26:10:22/18:46:30:280932] Escriure log report 
+[26:10:22/18:46:30:281940] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:46:30:281940] Escriure log malware 
+[26:10:22/18:46:30:285932] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:46:30:286935] (=================================================================) 
+[26:10:22/18:46:30:286935] 
+ 
+[26:10:22/18:46:30:286935] (=================================================================) 
+[26:10:22/18:46:30:288935] Linea del archiu llegida correctament 
+[26:10:22/18:46:30:289938] Linea 17: [26:10:22/18:38:03:579809] ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2NjgwMjI4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c >-->-->Nom_archiu>-->-->  46277.c 
+[26:10:22/18:46:30:290938] ID separat correctament : ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2NjgwMjI4Ng== 
+[26:10:22/18:46:30:290938] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c 
+[26:10:22/18:46:30:291935] Nom del archiu separat correctament : 46277.c  
+[26:10:22/18:46:30:640945] Peticio rebuda correctament :) 
+[26:10:22/18:46:30:641933] Analisis extret correctament 
+[26:10:22/18:46:30:641933] Escriure log report 
+[26:10:22/18:46:30:642934] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:30:642934] (=================================================================) 
+[26:10:22/18:46:30:642934] 
+ 
+[26:10:22/18:46:30:643936] (=================================================================) 
+[26:10:22/18:46:30:643936] Linea del archiu llegida correctament 
+[26:10:22/18:46:30:643936] Linea 18: [26:10:22/18:38:04:259818] MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2NjgwMjI4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c >-->-->Nom_archiu>-->-->  46393.c 
+[26:10:22/18:46:30:644933] ID separat correctament : MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2NjgwMjI4Ng== 
+[26:10:22/18:46:30:644933] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c 
+[26:10:22/18:46:30:645934] Nom del archiu separat correctament : 46393.c  
+[26:10:22/18:46:31:244954] Peticio rebuda correctament :) 
+[26:10:22/18:46:31:246956] Analisis extret correctament 
+[26:10:22/18:46:31:247938] Escriure log report 
+[26:10:22/18:46:31:248944] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:46:31:249966] Escriure log malware 
+[26:10:22/18:46:31:252936] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:46:31:253957] (=================================================================) 
+[26:10:22/18:46:31:254940] 
+ 
+[26:10:22/18:46:31:255953] (=================================================================) 
+[26:10:22/18:46:31:256943] Linea del archiu llegida correctament 
+[26:10:22/18:46:31:257950] Linea 19: [26:10:22/18:38:05:013823] Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2NjgwMjI4Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50917.js >-->-->Nom_archiu>-->-->  50917.js 
+[26:10:22/18:46:31:257950] ID separat correctament : Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2NjgwMjI4Nw== 
+[26:10:22/18:46:31:258938] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50917.js 
+[26:10:22/18:46:31:258938] Nom del archiu separat correctament : 50917.js  
+[26:10:22/18:46:31:666940] Peticio rebuda correctament :) 
+[26:10:22/18:46:31:667939] Analisis extret correctament 
+[26:10:22/18:46:31:671938] Escriure log report 
+[26:10:22/18:46:31:671938] separar informacio:  malicius :  1 suspicius:  0 
+[26:10:22/18:46:31:672942] Escriure log malware 
+[26:10:22/18:46:31:674948] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:46:31:675961] (=================================================================) 
+[26:10:22/18:46:31:675961] 
+ 
+[26:10:22/18:46:31:676937] (=================================================================) 
+[26:10:22/18:46:31:676937] Linea del archiu llegida correctament 
+[26:10:22/18:46:31:677936] Linea 20: [26:10:22/18:38:05:754827] NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2NjgwMjI4OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50925.html >-->-->Nom_archiu>-->-->  50925.html 
+[26:10:22/18:46:31:677936] ID separat correctament : NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2NjgwMjI4OA== 
+[26:10:22/18:46:31:677936] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50925.html 
+[26:10:22/18:46:31:678937] Nom del archiu separat correctament : 50925.html  
+[26:10:22/18:46:32:046968] Peticio rebuda correctament :) 
+[26:10:22/18:46:32:047952] Analisis extret correctament 
+[26:10:22/18:46:32:049982] Escriure log report 
+[26:10:22/18:46:32:051940] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:32:051940] (=================================================================) 
+[26:10:22/18:46:32:052938] 
+ 
+[26:10:22/18:46:32:053940] (=================================================================) 
+[26:10:22/18:46:32:053940] Linea del archiu llegida correctament 
+[26:10:22/18:46:32:054943] Linea 21: [26:10:22/18:38:06:675848] ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2NjgwMjI4OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50943.py >-->-->Nom_archiu>-->-->  50943.py 
+[26:10:22/18:46:32:054943] ID separat correctament : ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2NjgwMjI4OQ== 
+[26:10:22/18:46:32:055946] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50943.py 
+[26:10:22/18:46:32:055946] Nom del archiu separat correctament : 50943.py  
+[26:10:22/18:46:32:518939] Peticio rebuda correctament :) 
+[26:10:22/18:46:32:519948] Analisis extret correctament 
+[26:10:22/18:46:32:520945] Escriure log report 
+[26:10:22/18:46:32:521939] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:32:521939] (=================================================================) 
+[26:10:22/18:46:32:522939] 
+ 
+[26:10:22/18:46:32:522939] (=================================================================) 
+[26:10:22/18:46:32:523940] Linea del archiu llegida correctament 
+[26:10:22/18:46:32:523940] Linea 22: [26:10:22/18:38:07:269615] OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2NjgwMjI4OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50944.py >-->-->Nom_archiu>-->-->  50944.py 
+[26:10:22/18:46:32:525952] ID separat correctament : OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2NjgwMjI4OQ== 
+[26:10:22/18:46:32:527974] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50944.py 
+[26:10:22/18:46:32:528947] Nom del archiu separat correctament : 50944.py  
+[26:10:22/18:46:32:977956] Peticio rebuda correctament :) 
+[26:10:22/18:46:32:979999] Analisis extret correctament 
+[26:10:22/18:46:32:980952] Escriure log report 
+[26:10:22/18:46:32:981945] separar informacio:  malicius :  1 suspicius:  0 
+[26:10:22/18:46:32:982944] Escriure log malware 
+[26:10:22/18:46:32:983942] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:46:32:983942] (=================================================================) 
+[26:10:22/18:46:32:984945] 
+ 
+[26:10:22/18:46:32:984945] (=================================================================) 
+[26:10:22/18:46:32:985943] Linea del archiu llegida correctament 
+[26:10:22/18:46:32:985943] Linea 23: [26:10:22/18:38:07:966655] YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2NjgwMjI5MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50945.tzt >-->-->Nom_archiu>-->-->  50945.tzt 
+[26:10:22/18:46:32:986942] ID separat correctament : YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2NjgwMjI5MA== 
+[26:10:22/18:46:32:986942] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50945.tzt 
+[26:10:22/18:46:32:986942] Nom del archiu separat correctament : 50945.tzt  
+[26:10:22/18:46:33:570946] Peticio rebuda correctament :) 
+[26:10:22/18:46:33:571946] Analisis extret correctament 
+[26:10:22/18:46:33:571946] Escriure log report 
+[26:10:22/18:46:33:572947] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:33:573948] (=================================================================) 
+[26:10:22/18:46:33:574952] 
+ 
+[26:10:22/18:46:33:575954] (=================================================================) 
+[26:10:22/18:46:33:575954] Linea del archiu llegida correctament 
+[26:10:22/18:46:33:576943] Linea 24: [26:10:22/18:38:08:513627] Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2NjgwMjI5MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51009.rb >-->-->Nom_archiu>-->-->  51009.rb 
+[26:10:22/18:46:33:576943] ID separat correctament : Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2NjgwMjI5MQ== 
+[26:10:22/18:46:33:577946] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51009.rb 
+[26:10:22/18:46:33:577946] Nom del archiu separat correctament : 51009.rb  
+[26:10:22/18:46:33:924949] Peticio rebuda correctament :) 
+[26:10:22/18:46:33:925946] Analisis extret correctament 
+[26:10:22/18:46:33:925946] Escriure log report 
+[26:10:22/18:46:33:926944] separar informacio:  malicius :  2 suspicius:  0 
+[26:10:22/18:46:33:926944] Escriure log malware 
+[26:10:22/18:46:33:928945] Archiu malicios copiat al directori quarantena :S 
+[26:10:22/18:46:33:928945] (=================================================================) 
+[26:10:22/18:46:33:929982] 
+ 
+[26:10:22/18:46:33:929982] (=================================================================) 
+[26:10:22/18:46:33:930982] Linea del archiu llegida correctament 
+[26:10:22/18:46:33:931958] Linea 25: [26:10:22/18:38:09:094636] NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2NjgwMjI5MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51010.py >-->-->Nom_archiu>-->-->  51010.py 
+[26:10:22/18:46:33:932972] ID separat correctament : NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2NjgwMjI5MQ== 
+[26:10:22/18:46:33:934957] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51010.py 
+[26:10:22/18:46:33:935951] Nom del archiu separat correctament : 51010.py  
+[26:10:22/18:46:34:333946] Peticio rebuda correctament :) 
+[26:10:22/18:46:34:334947] Analisis extret correctament 
+[26:10:22/18:46:34:335949] Escriure log report 
+[26:10:22/18:46:34:336950] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:34:337953] (=================================================================) 
+[26:10:22/18:46:34:337953] 
+ 
+[26:10:22/18:46:34:338947] (=================================================================) 
+[26:10:22/18:46:34:338947] Linea del archiu llegida correctament 
+[26:10:22/18:46:34:338947] Linea 26: [26:10:22/18:38:09:774635] ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2NjgwMjI5Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51011.py >-->-->Nom_archiu>-->-->  51011.py 
+[26:10:22/18:46:34:339946] ID separat correctament : ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2NjgwMjI5Mg== 
+[26:10:22/18:46:34:339946] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51011.py 
+[26:10:22/18:46:34:339946] Nom del archiu separat correctament : 51011.py  
+[26:10:22/18:46:34:719947] Peticio rebuda correctament :) 
+[26:10:22/18:46:34:720948] Analisis extret correctament 
+[26:10:22/18:46:34:720948] Escriure log report 
+[26:10:22/18:46:34:721947] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:34:721947] (=================================================================) 
+[26:10:22/18:46:34:722947] 
+ 
+[26:10:22/18:46:34:722947] (=================================================================) 
+[26:10:22/18:46:34:722947] Linea del archiu llegida correctament 
+[26:10:22/18:46:34:723948] Linea 27: [26:10:22/18:38:10:478651] NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2NjgwMjI5Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51014.js >-->-->Nom_archiu>-->-->  51014.js 
+[26:10:22/18:46:34:723948] ID separat correctament : NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2NjgwMjI5Mg== 
+[26:10:22/18:46:34:723948] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51014.js 
+[26:10:22/18:46:34:724947] Nom del archiu separat correctament : 51014.js  
+[26:10:22/18:46:35:210948] Peticio rebuda correctament :) 
+[26:10:22/18:46:35:211950] Analisis extret correctament 
+[26:10:22/18:46:35:211950] Escriure log report 
+[26:10:22/18:46:35:212952] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:35:212952] (=================================================================) 
+[26:10:22/18:46:35:213952] 
+ 
+[26:10:22/18:46:35:213952] (=================================================================) 
+[26:10:22/18:46:35:213952] Linea del archiu llegida correctament 
+[26:10:22/18:46:35:214973] Linea 28: [26:10:22/18:38:11:041648] OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2NjgwMjI5Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51016.sh >-->-->Nom_archiu>-->-->  51016.sh 
+[26:10:22/18:46:35:214973] ID separat correctament : OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2NjgwMjI5Mw== 
+[26:10:22/18:46:35:214973] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51016.sh 
+[26:10:22/18:46:35:215951] Nom del archiu separat correctament : 51016.sh  
+[26:10:22/18:46:35:674951] Peticio rebuda correctament :) 
+[26:10:22/18:46:35:674951] Analisis extret correctament 
+[26:10:22/18:46:35:675952] Escriure log report 
+[26:10:22/18:46:35:676950] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:35:676950] (=================================================================) 
+[26:10:22/18:46:35:676950] 
+ 
+[26:10:22/18:46:35:677951] (=================================================================) 
+[26:10:22/18:46:35:677951] Linea del archiu llegida correctament 
+[26:10:22/18:46:35:677951] Linea 29: [26:10:22/18:38:12:394657] MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2NjgwMjI5NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/act sai.pdf >-->-->Nom_archiu>-->-->  act sai.pdf 
+[26:10:22/18:46:35:678960] ID separat correctament : MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2NjgwMjI5NA== 
+[26:10:22/18:46:35:678960] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/act 
+[26:10:22/18:46:35:679958] Nom del archiu separat correctament : act sai.pdf  
+[26:10:22/18:46:36:078953] Peticio rebuda correctament :) 
+[26:10:22/18:46:36:079952] Analisis extret correctament 
+[26:10:22/18:46:36:079952] Escriure log report 
+[26:10:22/18:46:36:080952] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:36:080952] (=================================================================) 
+[26:10:22/18:46:36:081951] 
+ 
+[26:10:22/18:46:36:081951] (=================================================================) 
+[26:10:22/18:46:36:081951] Linea del archiu llegida correctament 
+[26:10:22/18:46:36:082952] Linea 30: [26:10:22/18:38:12:982665] MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2NjgwMjI5NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/autor.py >-->-->Nom_archiu>-->-->  autor.py 
+[26:10:22/18:46:36:082952] ID separat correctament : MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2NjgwMjI5NQ== 
+[26:10:22/18:46:36:082952] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/autor.py 
+[26:10:22/18:46:36:083953] Nom del archiu separat correctament : autor.py  
+[26:10:22/18:46:36:457959] Peticio rebuda correctament :) 
+[26:10:22/18:46:36:458968] Analisis extret correctament 
+[26:10:22/18:46:36:459969] Escriure log report 
+[26:10:22/18:46:36:460955] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:36:460955] (=================================================================) 
+[26:10:22/18:46:36:460955] 
+ 
+[26:10:22/18:46:36:461954] (=================================================================) 
+[26:10:22/18:46:36:461954] Linea del archiu llegida correctament 
+[26:10:22/18:46:36:461954] Linea 31: [26:10:22/18:38:24:629755] Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2NjgwMjMwNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/DirectX 9.0c Repack.exe >-->-->Nom_archiu>-->-->  DirectX 9.0c Repack.exe 
+[26:10:22/18:46:36:462953] ID separat correctament : Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2NjgwMjMwNw== 
+[26:10:22/18:46:36:462953] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/DirectX 
+[26:10:22/18:46:36:462953] Nom del archiu separat correctament : DirectX 9.0c Repack.exe  
+[26:10:22/18:46:36:953957] Peticio rebuda correctament :) 
+[26:10:22/18:46:36:954955] Analisis extret correctament 
+[26:10:22/18:46:36:955955] Escriure log report 
+[26:10:22/18:46:36:955955] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:36:956955] (=================================================================) 
+[26:10:22/18:46:36:956955] 
+ 
+[26:10:22/18:46:36:957956] (=================================================================) 
+[26:10:22/18:46:36:957956] Linea del archiu llegida correctament 
+[26:10:22/18:46:36:957956] Linea 32: [26:10:22/18:38:33:255832] YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2NjgwMjMxNQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Doc1.docx >-->-->Nom_archiu>-->-->  Doc1.docx 
+[26:10:22/18:46:36:958955] ID separat correctament : YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2NjgwMjMxNQ== 
+[26:10:22/18:46:36:958955] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Doc1.docx 
+[26:10:22/18:46:36:958955] Nom del archiu separat correctament : Doc1.docx  
+[26:10:22/18:46:37:376958] Peticio rebuda correctament :) 
+[26:10:22/18:46:37:377959] Analisis extret correctament 
+[26:10:22/18:46:37:378960] Escriure log report 
+[26:10:22/18:46:37:378960] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:37:379963] (=================================================================) 
+[26:10:22/18:46:37:379963] 
+ 
+[26:10:22/18:46:37:380960] (=================================================================) 
+[26:10:22/18:46:37:380960] Linea del archiu llegida correctament 
+[26:10:22/18:46:37:380960] Linea 33: [26:10:22/18:38:33:946837] ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2NjgwMjMxNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ejercicio protocolos.xlsx >-->-->Nom_archiu>-->-->  Ejercicio protocolos.xlsx 
+[26:10:22/18:46:37:381958] ID separat correctament : ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2NjgwMjMxNg== 
+[26:10:22/18:46:37:381958] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ejercicio 
+[26:10:22/18:46:37:381958] Nom del archiu separat correctament : Ejercicio protocolos.xlsx  
+[26:10:22/18:46:37:754961] Peticio rebuda correctament :) 
+[26:10:22/18:46:37:756962] Analisis extret correctament 
+[26:10:22/18:46:37:756962] Escriure log report 
+[26:10:22/18:46:37:757958] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:37:757958] (=================================================================) 
+[26:10:22/18:46:37:757958] 
+ 
+[26:10:22/18:46:37:758961] (=================================================================) 
+[26:10:22/18:46:37:758961] Linea del archiu llegida correctament 
+[26:10:22/18:46:37:758961] Linea 34: [26:10:22/18:38:34:561861] ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2NjgwMjMxNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py >-->-->Nom_archiu>-->-->  ejerciciocompis.py 
+[26:10:22/18:46:37:759961] ID separat correctament : ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2NjgwMjMxNw== 
+[26:10:22/18:46:37:759961] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py 
+[26:10:22/18:46:37:759961] Nom del archiu separat correctament : ejerciciocompis.py  
+[26:10:22/18:46:38:132967] Peticio rebuda correctament :) 
+[26:10:22/18:46:38:133962] Analisis extret correctament 
+[26:10:22/18:46:38:134968] Escriure log report 
+[26:10:22/18:46:38:135966] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:38:135966] (=================================================================) 
+[26:10:22/18:46:38:135966] 
+ 
+[26:10:22/18:46:38:136968] (=================================================================) 
+[26:10:22/18:46:38:136968] Linea del archiu llegida correctament 
+[26:10:22/18:46:38:137965] Linea 35: [26:10:22/18:38:39:243899] MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2NjgwMjMyMQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb >-->-->Nom_archiu>-->-->  Ex02acces.accdb 
+[26:10:22/18:46:38:137965] ID separat correctament : MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2NjgwMjMyMQ== 
+[26:10:22/18:46:38:138960] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb 
+[26:10:22/18:46:38:138960] Nom del archiu separat correctament : Ex02acces.accdb  
+[26:10:22/18:46:38:509974] Peticio rebuda correctament :) 
+[26:10:22/18:46:38:511974] Analisis extret correctament 
+[26:10:22/18:46:38:512963] Escriure log report 
+[26:10:22/18:46:38:512963] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:38:513967] (=================================================================) 
+[26:10:22/18:46:38:513967] 
+ 
+[26:10:22/18:46:38:513967] (=================================================================) 
+[26:10:22/18:46:38:515001] Linea del archiu llegida correctament 
+[26:10:22/18:46:38:515001] Linea 36: [26:10:22/18:38:40:262885] ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2NjgwMjMyMg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg >-->-->Nom_archiu>-->-->  mecagoen.txt.gpg 
+[26:10:22/18:46:38:515962] ID separat correctament : ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2NjgwMjMyMg== 
+[26:10:22/18:46:38:515962] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg 
+[26:10:22/18:46:38:516965] Nom del archiu separat correctament : mecagoen.txt.gpg  
+[26:10:22/18:46:38:873964] Peticio rebuda correctament :) 
+[26:10:22/18:46:38:874963] Analisis extret correctament 
+[26:10:22/18:46:38:875963] Escriure log report 
+[26:10:22/18:46:38:876963] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:38:876963] (=================================================================) 
+[26:10:22/18:46:38:877963] 
+ 
+[26:10:22/18:46:38:877963] (=================================================================) 
+[26:10:22/18:46:38:878965] Linea del archiu llegida correctament 
+[26:10:22/18:46:38:878965] Linea 37: [26:10:22/18:38:54:012047] ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2NjgwMjMzNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Microsoft Visual C++ Pack v5.4 Repack.exe >-->-->Nom_archiu>-->-->  Microsoft Visual C++ Pack v5.4 Repack.exe 
+[26:10:22/18:46:38:879980] ID separat correctament : ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2NjgwMjMzNg== 
+[26:10:22/18:46:38:879980] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Microsoft 
+[26:10:22/18:46:38:880978] Nom del archiu separat correctament : Microsoft Visual C++ Pack v5.4 Repack.exe  
+[26:10:22/18:46:39:221964] Peticio rebuda correctament :) 
+[26:10:22/18:46:39:222969] Analisis extret correctament 
+[26:10:22/18:46:39:223968] Escriure log report 
+[26:10:22/18:46:39:223968] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:39:223968] (=================================================================) 
+[26:10:22/18:46:39:224964] 
+ 
+[26:10:22/18:46:39:224964] (=================================================================) 
+[26:10:22/18:46:39:225972] Linea del archiu llegida correctament 
+[26:10:22/18:46:39:225972] Linea 38: [26:10:22/18:38:54:595999] OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2NjgwMjMzNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/programa.py >-->-->Nom_archiu>-->-->  programa.py 
+[26:10:22/18:46:39:226965] ID separat correctament : OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2NjgwMjMzNw== 
+[26:10:22/18:46:39:226965] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/programa.py 
+[26:10:22/18:46:39:226965] Nom del archiu separat correctament : programa.py  
+[26:10:22/18:46:39:616978] Peticio rebuda correctament :) 
+[26:10:22/18:46:39:616978] Analisis extret correctament 
+[26:10:22/18:46:39:617969] Escriure log report 
+[26:10:22/18:46:39:618968] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:39:618968] (=================================================================) 
+[26:10:22/18:46:39:619982] 
+ 
+[26:10:22/18:46:39:619982] (=================================================================) 
+[26:10:22/18:46:39:620970] Linea del archiu llegida correctament 
+[26:10:22/18:46:39:620970] Linea 39: [26:10:22/18:38:55:230007] NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2NjgwMjMzNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/pro_act1.py >-->-->Nom_archiu>-->-->  pro_act1.py 
+[26:10:22/18:46:39:621965] ID separat correctament : NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2NjgwMjMzNw== 
+[26:10:22/18:46:39:621965] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/pro_act1.py 
+[26:10:22/18:46:39:621965] Nom del archiu separat correctament : pro_act1.py  
+[26:10:22/18:46:39:992970] Peticio rebuda correctament :) 
+[26:10:22/18:46:39:993970] Analisis extret correctament 
+[26:10:22/18:46:39:993970] Escriure log report 
+[26:10:22/18:46:39:995971] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:39:995971] (=================================================================) 
+[26:10:22/18:46:39:995971] 
+ 
+[26:10:22/18:46:39:996972] (=================================================================) 
+[26:10:22/18:46:39:997978] Linea del archiu llegida correctament 
+[26:10:22/18:46:39:998976] Linea 40: [26:10:22/18:38:55:846017] NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2NjgwMjMzOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/script.py >-->-->Nom_archiu>-->-->  script.py 
+[26:10:22/18:46:39:998976] ID separat correctament : NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2NjgwMjMzOA== 
+[26:10:22/18:46:39:999998] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/script.py 
+[26:10:22/18:46:39:999998] Nom del archiu separat correctament : script.py  
+[26:10:22/18:46:40:387970] Peticio rebuda correctament :) 
+[26:10:22/18:46:40:388973] Analisis extret correctament 
+[26:10:22/18:46:40:389977] Escriure log report 
+[26:10:22/18:46:40:390971] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:40:391968] (=================================================================) 
+[26:10:22/18:46:40:391968] 
+ 
+[26:10:22/18:46:40:391968] (=================================================================) 
+[26:10:22/18:46:40:392968] Linea del archiu llegida correctament 
+[26:10:22/18:46:40:392968] Linea 41: [26:10:22/18:38:56:439018] NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2NjgwMjMzOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/test.py >-->-->Nom_archiu>-->-->  test.py 
+[26:10:22/18:46:40:392968] ID separat correctament : NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2NjgwMjMzOA== 
+[26:10:22/18:46:40:393967] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/test.py 
+[26:10:22/18:46:40:393967] Nom del archiu separat correctament : test.py  
+[26:10:22/18:46:40:749976] Peticio rebuda correctament :) 
+[26:10:22/18:46:40:750968] Analisis extret correctament 
+[26:10:22/18:46:40:750968] Escriure log report 
+[26:10:22/18:46:40:751968] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:40:751968] (=================================================================) 
+[26:10:22/18:46:40:752984] 
+ 
+[26:10:22/18:46:40:752984] (=================================================================) 
+[26:10:22/18:46:40:753979] Linea del archiu llegida correctament 
+[26:10:22/18:46:40:754971] Linea 42: [26:10:22/18:39:19:846675] YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2NjgwMjM2Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip >-->-->Nom_archiu>-->-->  vt-py-master.zip 
+[26:10:22/18:46:40:754971] ID separat correctament : YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2NjgwMjM2Mg== 
+[26:10:22/18:46:40:754971] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip 
+[26:10:22/18:46:40:756980] Nom del archiu separat correctament : vt-py-master.zip  
+[26:10:22/18:46:41:217974] Peticio rebuda correctament :) 
+[26:10:22/18:46:41:219987] Analisis extret correctament 
+[26:10:22/18:46:41:221971] Escriure log report 
+[26:10:22/18:46:41:222969] separar informacio:  malicius :  0 suspicius:  0 
+[26:10:22/18:46:41:222969] (=================================================================) 
+[26:10:22/18:46:41:222969] 
+ 
+[26:10:22/18:46:41:223971] (=================================================================) 
+[26:10:22/18:46:41:223971] Linea del archiu llegida correctament 
+[26:10:22/18:46:41:224972] Linea 43:  
+[26:10:22/18:46:41:224972] Archiu log_id llegit correctament 
+[26:10:22/18:46:41:225970] 
+ 
+[26:10:22/18:46:41:225970] (=================================================================) 
+[26:10:22/18:46:41:226969] Final del Segon Script 
+[26:10:22/18:46:41:226969] Srcipt Finalitzat Correctament ;) 
+[26:10:22/18:46:41:227970] (=================================================================) 
+[26:10:22/18:46:41:227970] 
+ 
+[10:11:22/16:45:11:558437] 
+ 
+[10:11:22/16:45:11:559379] (=================================================================) 
+[10:11:22/16:45:11:560345] Archiu 1 ejecutatse 
+[10:11:22/16:45:11:561322] (=================================================================) 
+[10:11:22/16:45:11:562298] 
+ 
+[10:11:22/16:45:11:563318] 
+ 
+[10:11:22/16:45:11:564249] (=================================================================) 
+[10:11:22/16:45:11:564249] Archiu : 50711.asm Escanajat Correctament 
+[10:11:22/16:45:11:565226] Archiu PETIT detectat correctament -->  50711.asm 
+[10:11:22/16:45:12:286424] ID del archiu 50711.asm obtingut correctament 
+[10:11:22/16:45:12:287362] Escriure log ID 
+[10:11:22/16:45:12:289315] (=================================================================) 
+[10:11:22/16:45:12:290291] 
+ 
+[10:11:22/16:45:12:290291] (=================================================================) 
+[10:11:22/16:45:12:291268] Archiu : 50722.asm Escanajat Correctament 
+[10:11:22/16:45:12:292244] Archiu PETIT detectat correctament -->  50722.asm 
+[10:11:22/16:45:13:304991] ID del archiu 50722.asm obtingut correctament 
+[10:11:22/16:45:13:305923] Escriure log ID 
+[10:11:22/16:45:13:306901] (=================================================================) 
+[10:11:22/16:45:13:307877] 
+ 
+[10:11:22/16:45:13:308855] (=================================================================) 
+[10:11:22/16:45:13:309831] Archiu : 50710.asm Escanajat Correctament 
+[10:11:22/16:45:13:310808] Archiu PETIT detectat correctament -->  50710.asm 
+[10:11:22/16:45:13:965115] ID del archiu 50710.asm obtingut correctament 
+[10:11:22/16:45:13:968045] Escriure log ID 
+[10:11:22/16:45:13:969998] (=================================================================) 
+[10:11:22/16:45:13:977810] 
+ 
+[10:11:22/16:45:13:979764] (=================================================================) 
+[10:11:22/16:45:13:981717] Archiu : 47296.c Escanajat Correctament 
+[10:11:22/16:45:13:982717] Archiu PETIT detectat correctament -->  47296.c 
+[10:11:22/16:45:14:643086] ID del archiu 47296.c obtingut correctament 
+[10:11:22/16:45:14:644064] Escriure log ID 
+[10:11:22/16:45:14:645040] (=================================================================) 
+[10:11:22/16:45:14:646018] 
+ 
+[10:11:22/16:45:14:646995] (=================================================================) 
+[10:11:22/16:45:14:646995] Archiu : 50369.c Escanajat Correctament 
+[10:11:22/16:45:14:647970] Archiu PETIT detectat correctament -->  50369.c 
+[10:11:22/16:45:15:244595] ID del archiu 50369.c obtingut correctament 
+[10:11:22/16:45:15:245574] Escriure log ID 
+[10:11:22/16:45:15:246552] (=================================================================) 
+[10:11:22/16:45:15:247528] 
+ 
+[10:11:22/16:45:15:248505] (=================================================================) 
+[10:11:22/16:45:15:248505] Archiu : 46679.nasm Escanajat Correctament 
+[10:11:22/16:45:15:249481] Archiu PETIT detectat correctament -->  46679.nasm 
+[10:11:22/16:45:15:974064] ID del archiu 46679.nasm obtingut correctament 
+[10:11:22/16:45:15:975045] Escriure log ID 
+[10:11:22/16:45:15:975979] (=================================================================) 
+[10:11:22/16:45:15:976954] 
+ 
+[10:11:22/16:45:15:976954] (=================================================================) 
+[10:11:22/16:45:15:977933] Archiu : 46680.nasm Escanajat Correctament 
+[10:11:22/16:45:15:978906] Archiu PETIT detectat correctament -->  46680.nasm 
+[10:11:22/16:45:16:545198] ID del archiu 46680.nasm obtingut correctament 
+[10:11:22/16:45:16:546173] Escriure log ID 
+[10:11:22/16:45:16:546173] (=================================================================) 
+[10:11:22/16:45:16:548135] 
+ 
+[10:11:22/16:45:16:550100] (=================================================================) 
+[10:11:22/16:45:16:552060] Archiu : 47239.c Escanajat Correctament 
+[10:11:22/16:45:16:553011] Archiu PETIT detectat correctament -->  47239.c 
+[10:11:22/16:45:17:280293] ID del archiu 47239.c obtingut correctament 
+[10:11:22/16:45:17:281271] Escriure log ID 
+[10:11:22/16:45:17:281271] (=================================================================) 
+[10:11:22/16:45:17:282247] 
+ 
+[10:11:22/16:45:17:283226] (=================================================================) 
+[10:11:22/16:45:17:283226] Archiu : 47242.asm Escanajat Correctament 
+[10:11:22/16:45:17:284200] Archiu PETIT detectat correctament -->  47242.asm 
+[10:11:22/16:45:17:967690] ID del archiu 47242.asm obtingut correctament 
+[10:11:22/16:45:17:968624] Escriure log ID 
+[10:11:22/16:45:17:968624] (=================================================================) 
+[10:11:22/16:45:17:969599] 
+ 
+[10:11:22/16:45:17:970578] (=================================================================) 
+[10:11:22/16:45:17:970578] Archiu : 46394.c Escanajat Correctament 
+[10:11:22/16:45:17:971553] Archiu PETIT detectat correctament -->  46394.c 
+[10:11:22/16:45:18:519794] ID del archiu 46394.c obtingut correctament 
+[10:11:22/16:45:18:520728] Escriure log ID 
+[10:11:22/16:45:18:521705] (=================================================================) 
+[10:11:22/16:45:18:522684] 
+ 
+[10:11:22/16:45:18:522684] (=================================================================) 
+[10:11:22/16:45:18:523662] Archiu : 46395.c Escanajat Correctament 
+[10:11:22/16:45:18:524636] Archiu PETIT detectat correctament -->  46395.c 
+[10:11:22/16:45:19:006652] ID del archiu 46395.c obtingut correctament 
+[10:11:22/16:45:19:008606] Escriure log ID 
+[10:11:22/16:45:19:009583] (=================================================================) 
+[10:11:22/16:45:19:010560] 
+ 
+[10:11:22/16:45:19:011537] (=================================================================) 
+[10:11:22/16:45:19:011537] Archiu : 46396.c Escanajat Correctament 
+[10:11:22/16:45:19:012513] Archiu PETIT detectat correctament -->  46396.c 
+[10:11:22/16:45:19:886425] ID del archiu 46396.c obtingut correctament 
+[10:11:22/16:45:19:887398] Escriure log ID 
+[10:11:22/16:45:19:888390] (=================================================================) 
+[10:11:22/16:45:19:889310] 
+ 
+[10:11:22/16:45:19:890287] (=================================================================) 
+[10:11:22/16:45:19:890287] Archiu : 46493.c Escanajat Correctament 
+[10:11:22/16:45:19:891264] Archiu PETIT detectat correctament -->  46493.c 
+[10:11:22/16:45:20:433497] ID del archiu 46493.c obtingut correctament 
+[10:11:22/16:45:20:434431] Escriure log ID 
+[10:11:22/16:45:20:435479] (=================================================================) 
+[10:11:22/16:45:20:436386] 
+ 
+[10:11:22/16:45:20:436386] (=================================================================) 
+[10:11:22/16:45:20:438340] Archiu : 46256.c Escanajat Correctament 
+[10:11:22/16:45:20:438340] Archiu PETIT detectat correctament -->  46256.c 
+[10:11:22/16:45:21:081449] ID del archiu 46256.c obtingut correctament 
+[10:11:22/16:45:21:082383] Escriure log ID 
+[10:11:22/16:45:21:083360] (=================================================================) 
+[10:11:22/16:45:21:084337] 
+ 
+[10:11:22/16:45:21:084337] (=================================================================) 
+[10:11:22/16:45:21:085312] Archiu : 46257.c Escanajat Correctament 
+[10:11:22/16:45:21:086290] Archiu PETIT detectat correctament -->  46257.c 
+[10:11:22/16:45:21:570004] ID del archiu 46257.c obtingut correctament 
+[10:11:22/16:45:21:571960] Escriure log ID 
+[10:11:22/16:45:21:571960] (=================================================================) 
+[10:11:22/16:45:21:572953] 
+ 
+[10:11:22/16:45:21:573912] (=================================================================) 
+[10:11:22/16:45:21:573912] Archiu : 46275.c Escanajat Correctament 
+[10:11:22/16:45:21:574892] Archiu PETIT detectat correctament -->  46275.c 
+[10:11:22/16:45:22:119931] ID del archiu 46275.c obtingut correctament 
+[10:11:22/16:45:22:120850] Escriure log ID 
+[10:11:22/16:45:22:121827] (=================================================================) 
+[10:11:22/16:45:22:122804] 
+ 
+[10:11:22/16:45:22:122804] (=================================================================) 
+[10:11:22/16:45:22:123781] Archiu : 46277.c Escanajat Correctament 
+[10:11:22/16:45:22:124760] Archiu PETIT detectat correctament -->  46277.c 
+[10:11:22/16:45:22:759941] ID del archiu 46277.c obtingut correctament 
+[10:11:22/16:45:22:760913] Escriure log ID 
+[10:11:22/16:45:22:761899] (=================================================================) 
+[10:11:22/16:45:22:762866] 
+ 
+[10:11:22/16:45:22:763845] (=================================================================) 
+[10:11:22/16:45:22:763845] Archiu : 46393.c Escanajat Correctament 
+[10:11:22/16:45:22:764820] Archiu PETIT detectat correctament -->  46393.c 
+[10:11:22/16:45:23:437607] ID del archiu 46393.c obtingut correctament 
+[10:11:22/16:45:23:438551] Escriure log ID 
+[10:11:22/16:45:23:439518] (=================================================================) 
+[10:11:22/16:45:23:440497] 
+ 
+[10:11:22/16:45:23:440497] (=================================================================) 
+[10:11:22/16:45:23:441474] Archiu : 50917.js Escanajat Correctament 
+[10:11:22/16:45:23:442448] Archiu PETIT detectat correctament -->  50917.js 
+[10:11:22/16:45:24:283076] ID del archiu 50917.js obtingut correctament 
+[10:11:22/16:45:24:284004] Escriure log ID 
+[10:11:22/16:45:24:284982] (=================================================================) 
+[10:11:22/16:45:24:285959] 
+ 
+[10:11:22/16:45:24:285959] (=================================================================) 
+[10:11:22/16:45:24:286936] Archiu : 50925.html Escanajat Correctament 
+[10:11:22/16:45:24:287912] Archiu PETIT detectat correctament -->  50925.html 
+[10:11:22/16:45:24:881410] ID del archiu 50925.html obtingut correctament 
+[10:11:22/16:45:24:882397] Escriure log ID 
+[10:11:22/16:45:24:882397] (=================================================================) 
+[10:11:22/16:45:24:883335] 
+ 
+[10:11:22/16:45:24:884300] (=================================================================) 
+[10:11:22/16:45:24:885276] Archiu : 50943.py Escanajat Correctament 
+[10:11:22/16:45:24:885276] Archiu PETIT detectat correctament -->  50943.py 
+[10:11:22/16:45:25:440077] ID del archiu 50943.py obtingut correctament 
+[10:11:22/16:45:25:441028] Escriure log ID 
+[10:11:22/16:45:25:441028] (=================================================================) 
+[10:11:22/16:45:25:441994] 
+ 
+[10:11:22/16:45:25:442967] (=================================================================) 
+[10:11:22/16:45:25:442967] Archiu : 50944.py Escanajat Correctament 
+[10:11:22/16:45:25:443947] Archiu PETIT detectat correctament -->  50944.py 
+[10:11:22/16:45:26:703940] ID del archiu 50944.py obtingut correctament 
+[10:11:22/16:45:26:704888] Escriure log ID 
+[10:11:22/16:45:26:705865] (=================================================================) 
+[10:11:22/16:45:26:706840] 
+ 
+[10:11:22/16:45:26:707820] (=================================================================) 
+[10:11:22/16:45:26:707820] Archiu : 50945.tzt Escanajat Correctament 
+[10:11:22/16:45:26:708796] Archiu PETIT detectat correctament -->  50945.tzt 
+[10:11:22/16:45:27:573114] ID del archiu 50945.tzt obtingut correctament 
+[10:11:22/16:45:27:574102] Escriure log ID 
+[10:11:22/16:45:27:575070] (=================================================================) 
+[10:11:22/16:45:27:576046] 
+ 
+[10:11:22/16:45:27:577024] (=================================================================) 
+[10:11:22/16:45:27:577024] Archiu : 51009.rb Escanajat Correctament 
+[10:11:22/16:45:27:578001] Archiu PETIT detectat correctament -->  51009.rb 
+[10:11:22/16:45:28:851651] ID del archiu 51009.rb obtingut correctament 
+[10:11:22/16:45:28:852600] Escriure log ID 
+[10:11:22/16:45:28:853585] (=================================================================) 
+[10:11:22/16:45:28:854551] 
+ 
+[10:11:22/16:45:28:855526] (=================================================================) 
+[10:11:22/16:45:28:855526] Archiu : 51010.py Escanajat Correctament 
+[10:11:22/16:45:28:856503] Archiu PETIT detectat correctament -->  51010.py 
+[10:11:22/16:45:29:438516] ID del archiu 51010.py obtingut correctament 
+[10:11:22/16:45:29:439490] Escriure log ID 
+[10:11:22/16:45:29:441450] (=================================================================) 
+[10:11:22/16:45:29:442426] 
+ 
+[10:11:22/16:45:29:443401] (=================================================================) 
+[10:11:22/16:45:29:443401] Archiu : 51011.py Escanajat Correctament 
+[10:11:22/16:45:29:444375] Archiu PETIT detectat correctament -->  51011.py 
+[10:11:22/16:45:30:121524] ID del archiu 51011.py obtingut correctament 
+[10:11:22/16:45:30:122460] Escriure log ID 
+[10:11:22/16:45:30:123453] (=================================================================) 
+[10:11:22/16:45:30:124413] 
+ 
+[10:11:22/16:45:30:125392] (=================================================================) 
+[10:11:22/16:45:30:125392] Archiu : 51014.js Escanajat Correctament 
+[10:11:22/16:45:30:126369] Archiu PETIT detectat correctament -->  51014.js 
+[10:11:22/16:45:30:943647] ID del archiu 51014.js obtingut correctament 
+[10:11:22/16:45:30:944564] Escriure log ID 
+[10:11:22/16:45:30:945542] (=================================================================) 
+[10:11:22/16:45:30:946519] 
+ 
+[10:11:22/16:45:30:946519] (=================================================================) 
+[10:11:22/16:45:30:947495] Archiu : 51016.sh Escanajat Correctament 
+[10:11:22/16:45:30:948472] Archiu PETIT detectat correctament -->  51016.sh 
+[10:11:22/16:45:31:661181] ID del archiu 51016.sh obtingut correctament 
+[10:11:22/16:45:31:662120] Escriure log ID 
+[10:11:22/16:45:31:662120] (=================================================================) 
+[10:11:22/16:45:31:663094] 
+ 
+[10:11:22/16:45:31:664070] (=================================================================) 
+[10:11:22/16:45:31:665049] Archiu : act sai.pdf Escanajat Correctament 
+[10:11:22/16:45:31:665049] Archiu PETIT detectat correctament -->  act sai.pdf 
+[10:11:22/16:45:33:290853] ID del archiu act sai.pdf obtingut correctament 
+[10:11:22/16:45:33:291841] Escriure log ID 
+[10:11:22/16:45:33:292811] (=================================================================) 
+[10:11:22/16:45:33:293787] 
+ 
+[10:11:22/16:45:33:294764] (=================================================================) 
+[10:11:22/16:45:33:294764] Archiu : autor.py Escanajat Correctament 
+[10:11:22/16:45:33:295742] Archiu PETIT detectat correctament -->  autor.py 
+[10:11:22/16:45:34:153501] ID del archiu autor.py obtingut correctament 
+[10:11:22/16:45:34:154481] Escriure log ID 
+[10:11:22/16:45:34:154481] (=================================================================) 
+[10:11:22/16:45:34:155456] 
+ 
+[10:11:22/16:45:34:156434] (=================================================================) 
+[10:11:22/16:45:34:156434] Archiu : DirectX 9.0c Repack.exe Escanajat Correctament 
+[10:11:22/16:45:34:157410] Archiu GRAN detectat correctament --> DirectX 9.0c Repack.exe 
+[10:11:22/16:45:34:677686] URL fixer gran obtinguda correctament 
+[10:11:22/16:45:47:121019] ID del archiu DirectX 9.0c Repack.exe obtingut correctament 
+[10:11:22/16:45:47:142483] Escriure log ID 
+[10:11:22/16:45:47:143441] (=================================================================) 
+[10:11:22/16:45:47:144420] 
+ 
+[10:11:22/16:45:47:145393] (=================================================================) 
+[10:11:22/16:45:47:145393] Archiu : Doc1.docx Escanajat Correctament 
+[10:11:22/16:45:47:146366] Archiu PETIT detectat correctament -->  Doc1.docx 
+[10:11:22/16:45:55:528819] ID del archiu Doc1.docx obtingut correctament 
+[10:11:22/16:45:55:530766] Escriure log ID 
+[10:11:22/16:45:55:531742] (=================================================================) 
+[10:11:22/16:45:55:532719] 
+ 
+[10:11:22/16:45:55:533697] (=================================================================) 
+[10:11:22/16:45:55:533697] Archiu : Ejercicio protocolos.xlsx Escanajat Correctament 
+[10:11:22/16:45:55:534674] Archiu PETIT detectat correctament -->  Ejercicio protocolos.xlsx 
+[10:11:22/16:45:56:277323] ID del archiu Ejercicio protocolos.xlsx obtingut correctament 
+[10:11:22/16:45:56:278317] Escriure log ID 
+[10:11:22/16:45:56:279278] (=================================================================) 
+[10:11:22/16:45:56:279278] 
+ 
+[10:11:22/16:45:56:280256] (=================================================================) 
+[10:11:22/16:45:56:281231] Archiu : ejerciciocompis.py Escanajat Correctament 
+[10:11:22/16:45:56:282212] Archiu PETIT detectat correctament -->  ejerciciocompis.py 
+[10:11:22/16:45:56:977767] ID del archiu ejerciciocompis.py obtingut correctament 
+[10:11:22/16:45:56:979678] Escriure log ID 
+[10:11:22/16:45:56:979678] (=================================================================) 
+[10:11:22/16:45:56:980661] 
+ 
+[10:11:22/16:45:56:981635] (=================================================================) 
+[10:11:22/16:45:56:982611] Archiu : Ex02acces.accdb Escanajat Correctament 
+[10:11:22/16:45:56:982611] Archiu PETIT detectat correctament -->  Ex02acces.accdb 
+[10:11:22/16:46:01:736472] ID del archiu Ex02acces.accdb obtingut correctament 
+[10:11:22/16:46:01:738387] Escriure log ID 
+[10:11:22/16:46:01:738387] (=================================================================) 
+[10:11:22/16:46:01:739360] 
+ 
+[10:11:22/16:46:01:740337] (=================================================================) 
+[10:11:22/16:46:01:741314] Archiu : mecagoen.txt.gpg Escanajat Correctament 
+[10:11:22/16:46:01:742341] Archiu PETIT detectat correctament -->  mecagoen.txt.gpg 
+[10:11:22/16:46:02:319801] ID del archiu mecagoen.txt.gpg obtingut correctament 
+[10:11:22/16:46:02:320737] Escriure log ID 
+[10:11:22/16:46:02:321714] (=================================================================) 
+[10:11:22/16:46:02:322689] 
+ 
+[10:11:22/16:46:02:322689] (=================================================================) 
+[10:11:22/16:46:02:323668] Archiu : Microsoft Visual C++ Pack v5.4 Repack.exe Escanajat Correctament 
+[10:11:22/16:46:02:324647] Archiu GRAN detectat correctament --> Microsoft Visual C++ Pack v5.4 Repack.exe 
+[10:11:22/16:46:02:875972] URL fixer gran obtinguda correctament 
+[10:11:22/16:46:15:372505] ID del archiu Microsoft Visual C++ Pack v5.4 Repack.exe obtingut correctament 
+[10:11:22/16:46:15:386180] Escriure log ID 
+[10:11:22/16:46:15:386180] (=================================================================) 
+[10:11:22/16:46:15:388089] 
+ 
+[10:11:22/16:46:15:388089] (=================================================================) 
+[10:11:22/16:46:15:389066] Archiu : programa.py Escanajat Correctament 
+[10:11:22/16:46:15:390042] Archiu PETIT detectat correctament -->  programa.py 
+[10:11:22/16:46:16:016883] ID del archiu programa.py obtingut correctament 
+[10:11:22/16:46:16:017818] Escriure log ID 
+[10:11:22/16:46:16:018795] (=================================================================) 
+[10:11:22/16:46:16:019773] 
+ 
+[10:11:22/16:46:16:019773] (=================================================================) 
+[10:11:22/16:46:16:020749] Archiu : pro_act1.py Escanajat Correctament 
+[10:11:22/16:46:16:021726] Archiu PETIT detectat correctament -->  pro_act1.py 
+[10:11:22/16:46:16:688967] ID del archiu pro_act1.py obtingut correctament 
+[10:11:22/16:46:16:689908] Escriure log ID 
+[10:11:22/16:46:16:691871] (=================================================================) 
+[10:11:22/16:46:16:693813] 
+ 
+[10:11:22/16:46:16:693813] (=================================================================) 
+[10:11:22/16:46:16:694792] Archiu : script.py Escanajat Correctament 
+[10:11:22/16:46:16:695764] Archiu PETIT detectat correctament -->  script.py 
+[10:11:22/16:46:17:435642] ID del archiu script.py obtingut correctament 
+[10:11:22/16:46:17:436615] Escriure log ID 
+[10:11:22/16:46:17:437552] (=================================================================) 
+[10:11:22/16:46:17:438541] 
+ 
+[10:11:22/16:46:17:439503] (=================================================================) 
+[10:11:22/16:46:17:440482] Archiu : test.py Escanajat Correctament 
+[10:11:22/16:46:17:441476] Archiu PETIT detectat correctament -->  test.py 
+[10:11:22/16:46:18:109060] ID del archiu test.py obtingut correctament 
+[10:11:22/16:46:18:111012] Escriure log ID 
+[10:11:22/16:46:18:111012] (=================================================================) 
+[10:11:22/16:46:18:111989] 
+ 
+[10:11:22/16:46:18:112966] (=================================================================) 
+[10:11:22/16:46:18:113942] Archiu : vt-py-master.zip Escanajat Correctament 
+[10:11:22/16:46:18:113942] Archiu PETIT detectat correctament -->  vt-py-master.zip 
+[10:11:22/16:46:41:580981] ID del archiu vt-py-master.zip obtingut correctament 
+[10:11:22/16:46:41:582890] Escriure log ID 
+[10:11:22/16:46:41:583868] (=================================================================) 
+[10:11:22/16:46:41:584846] 
+ 
+[10:11:22/16:46:41:584846] (=================================================================) 
+[10:11:22/16:46:41:585822] Final Archiu 1 
+[10:11:22/16:46:41:586799] (=================================================================) 
+[10:11:22/16:46:41:586799] 
+ 
+[10:11:22/16:46:41:609923] 
+ 
+[10:11:22/16:46:41:612860] (=================================================================) 
+[10:11:22/16:46:41:613826] Iniciat el Segon Script 
+[10:11:22/16:46:41:613826] (=================================================================) 
+[10:11:22/16:46:41:614836] 
+ 
+[10:11:22/16:46:41:622654] Arhiu log_id obert satisfactoriament 
+[10:11:22/16:46:41:623626] 
+ 
+[10:11:22/16:46:41:624578] (=================================================================) 
+[10:11:22/16:46:41:625560] Linea del archiu llegida correctament 
+[10:11:22/16:46:41:626525] Linea 1: [26:10:22/18:37:51:312741] MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2NjgwMjI3Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm >-->-->Nom_archiu>-->-->  50711.asm 
+[10:11:22/16:46:41:627498] ID separat correctament : MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2NjgwMjI3Mw== 
+[10:11:22/16:46:41:628482] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm 
+[10:11:22/16:46:41:630447] Nom del archiu separat correctament : 50711.asm  
+[10:11:22/16:46:42:090971] Peticio rebuda correctament :) 
+[10:11:22/16:46:42:091935] Analisis extret correctament 
+[10:11:22/16:46:42:092913] Escriure log report 
+[10:11:22/16:46:42:093903] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:42:094865] (=================================================================) 
+[10:11:22/16:46:42:094865] 
+ 
+[10:11:22/16:46:42:095842] (=================================================================) 
+[10:11:22/16:46:42:095842] Linea del archiu llegida correctament 
+[10:11:22/16:46:42:096820] Linea 2: [26:10:22/18:37:52:033749] NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2NjgwMjI3NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm >-->-->Nom_archiu>-->-->  50722.asm 
+[10:11:22/16:46:42:097794] ID separat correctament : NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2NjgwMjI3NA== 
+[10:11:22/16:46:42:097794] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm 
+[10:11:22/16:46:42:098771] Nom del archiu separat correctament : 50722.asm  
+[10:11:22/16:46:42:692741] Peticio rebuda correctament :) 
+[10:11:22/16:46:42:693709] Analisis extret correctament 
+[10:11:22/16:46:42:694678] Escriure log report 
+[10:11:22/16:46:42:695622] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:42:696600] (=================================================================) 
+[10:11:22/16:46:42:696600] 
+ 
+[10:11:22/16:46:42:697573] (=================================================================) 
+[10:11:22/16:46:42:697573] Linea del archiu llegida correctament 
+[10:11:22/16:46:42:698551] Linea 3: [26:10:22/18:37:52:628757] MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2NjgwMjI3NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm >-->-->Nom_archiu>-->-->  50710.asm 
+[10:11:22/16:46:42:699524] ID separat correctament : MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2NjgwMjI3NQ== 
+[10:11:22/16:46:42:699524] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm 
+[10:11:22/16:46:42:700500] Nom del archiu separat correctament : 50710.asm  
+[10:11:22/16:46:43:085691] Peticio rebuda correctament :) 
+[10:11:22/16:46:43:086630] Analisis extret correctament 
+[10:11:22/16:46:43:087603] Escriure log report 
+[10:11:22/16:46:43:088580] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:43:088580] (=================================================================) 
+[10:11:22/16:46:43:089555] 
+ 
+[10:11:22/16:46:43:089555] (=================================================================) 
+[10:11:22/16:46:43:090540] Linea del archiu llegida correctament 
+[10:11:22/16:46:43:090540] Linea 4: [26:10:22/18:37:53:637329] NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2NjgwMjI3Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c >-->-->Nom_archiu>-->-->  47296.c 
+[10:11:22/16:46:43:091517] ID separat correctament : NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2NjgwMjI3Ng== 
+[10:11:22/16:46:43:092486] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c 
+[10:11:22/16:46:43:092486] Nom del archiu separat correctament : 47296.c  
+[10:11:22/16:46:43:479873] Peticio rebuda correctament :) 
+[10:11:22/16:46:43:480857] Analisis extret correctament 
+[10:11:22/16:46:43:481878] Escriure log report 
+[10:11:22/16:46:43:482807] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:43:482807] (=================================================================) 
+[10:11:22/16:46:43:483782] 
+ 
+[10:11:22/16:46:43:483782] (=================================================================) 
+[10:11:22/16:46:43:484767] Linea del archiu llegida correctament 
+[10:11:22/16:46:43:485736] Linea 5: [26:10:22/18:37:54:393333] OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2NjgwMjI3Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c >-->-->Nom_archiu>-->-->  50369.c 
+[10:11:22/16:46:43:485736] ID separat correctament : OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2NjgwMjI3Ng== 
+[10:11:22/16:46:43:486711] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c 
+[10:11:22/16:46:43:487688] Nom del archiu separat correctament : 50369.c  
+[10:11:22/16:46:43:867133] Peticio rebuda correctament :) 
+[10:11:22/16:46:43:868108] Analisis extret correctament 
+[10:11:22/16:46:43:869044] Escriure log report 
+[10:11:22/16:46:43:870062] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:43:870995] (=================================================================) 
+[10:11:22/16:46:43:870995] 
+ 
+[10:11:22/16:46:43:871970] (=================================================================) 
+[10:11:22/16:46:43:872961] Linea del archiu llegida correctament 
+[10:11:22/16:46:43:873924] Linea 6: [26:10:22/18:37:55:093315] NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2NjgwMjI3Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm >-->-->Nom_archiu>-->-->  46679.nasm 
+[10:11:22/16:46:43:874901] ID separat correctament : NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2NjgwMjI3Nw== 
+[10:11:22/16:46:43:876864] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm 
+[10:11:22/16:46:43:877831] Nom del archiu separat correctament : 46679.nasm  
+[10:11:22/16:46:44:283591] Peticio rebuda correctament :) 
+[10:11:22/16:46:44:284531] Analisis extret correctament 
+[10:11:22/16:46:44:284531] Escriure log report 
+[10:11:22/16:46:44:285548] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:44:286490] (=================================================================) 
+[10:11:22/16:46:44:286490] 
+ 
+[10:11:22/16:46:44:287457] (=================================================================) 
+[10:11:22/16:46:44:287457] Linea del archiu llegida correctament 
+[10:11:22/16:46:44:288474] Linea 7: [26:10:22/18:37:55:922923] M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2NjgwMjI3OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm >-->-->Nom_archiu>-->-->  46680.nasm 
+[10:11:22/16:46:44:289416] ID separat correctament : M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2NjgwMjI3OA== 
+[10:11:22/16:46:44:289416] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm 
+[10:11:22/16:46:44:290387] Nom del archiu separat correctament : 46680.nasm  
+[10:11:22/16:46:44:729350] Peticio rebuda correctament :) 
+[10:11:22/16:46:44:730285] Analisis extret correctament 
+[10:11:22/16:46:44:731262] Escriure log report 
+[10:11:22/16:46:44:732238] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:44:732238] (=================================================================) 
+[10:11:22/16:46:44:733213] 
+ 
+[10:11:22/16:46:44:733213] (=================================================================) 
+[10:11:22/16:46:44:734191] Linea del archiu llegida correctament 
+[10:11:22/16:46:44:735167] Linea 8: [26:10:22/18:37:56:564938] MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2NjgwMjI3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c >-->-->Nom_archiu>-->-->  47239.c 
+[10:11:22/16:46:44:735167] ID separat correctament : MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2NjgwMjI3OQ== 
+[10:11:22/16:46:44:736144] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c 
+[10:11:22/16:46:44:736144] Nom del archiu separat correctament : 47239.c  
+[10:11:22/16:46:45:168569] Peticio rebuda correctament :) 
+[10:11:22/16:46:45:169551] Analisis extret correctament 
+[10:11:22/16:46:45:170477] Escriure log report 
+[10:11:22/16:46:45:171454] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:45:172430] Escriure log malware 
+[10:11:22/16:46:45:175361] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:45:175361] (=================================================================) 
+[10:11:22/16:46:45:176336] 
+ 
+[10:11:22/16:46:45:176336] (=================================================================) 
+[10:11:22/16:46:45:177381] Linea del archiu llegida correctament 
+[10:11:22/16:46:45:177381] Linea 9: [26:10:22/18:37:57:573936] MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2NjgwMjI3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm >-->-->Nom_archiu>-->-->  47242.asm 
+[10:11:22/16:46:45:178292] ID separat correctament : MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2NjgwMjI3OQ== 
+[10:11:22/16:46:45:179271] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm 
+[10:11:22/16:46:45:179271] Nom del archiu separat correctament : 47242.asm  
+[10:11:22/16:46:45:734627] Peticio rebuda correctament :) 
+[10:11:22/16:46:45:735599] Analisis extret correctament 
+[10:11:22/16:46:45:736578] Escriure log report 
+[10:11:22/16:46:45:737510] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:45:738489] (=================================================================) 
+[10:11:22/16:46:45:738489] 
+ 
+[10:11:22/16:46:45:739465] (=================================================================) 
+[10:11:22/16:46:45:739465] Linea del archiu llegida correctament 
+[10:11:22/16:46:45:740442] Linea 10: [26:10:22/18:37:58:187942] NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2NjgwMjI4MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c >-->-->Nom_archiu>-->-->  46394.c 
+[10:11:22/16:46:45:741418] ID separat correctament : NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2NjgwMjI4MA== 
+[10:11:22/16:46:45:741418] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c 
+[10:11:22/16:46:45:742411] Nom del archiu separat correctament : 46394.c  
+[10:11:22/16:46:46:159848] Peticio rebuda correctament :) 
+[10:11:22/16:46:46:160784] Analisis extret correctament 
+[10:11:22/16:46:46:161760] Escriure log report 
+[10:11:22/16:46:46:162737] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:46:162737] Escriure log malware 
+[10:11:22/16:46:46:165664] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:46:166657] (=================================================================) 
+[10:11:22/16:46:46:166657] 
+ 
+[10:11:22/16:46:46:167619] (=================================================================) 
+[10:11:22/16:46:46:167619] Linea del archiu llegida correctament 
+[10:11:22/16:46:46:168594] Linea 11: [26:10:22/18:37:58:961954] ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2NjgwMjI4MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c >-->-->Nom_archiu>-->-->  46395.c 
+[10:11:22/16:46:46:168594] ID separat correctament : ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2NjgwMjI4MQ== 
+[10:11:22/16:46:46:169605] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c 
+[10:11:22/16:46:46:170552] Nom del archiu separat correctament : 46395.c  
+[10:11:22/16:46:46:551614] Peticio rebuda correctament :) 
+[10:11:22/16:46:46:552593] Analisis extret correctament 
+[10:11:22/16:46:46:553576] Escriure log report 
+[10:11:22/16:46:46:554546] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:46:554546] Escriure log malware 
+[10:11:22/16:46:46:557477] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:46:558453] (=================================================================) 
+[10:11:22/16:46:46:558453] 
+ 
+[10:11:22/16:46:46:559430] (=================================================================) 
+[10:11:22/16:46:46:560405] Linea del archiu llegida correctament 
+[10:11:22/16:46:46:560405] Linea 12: [26:10:22/18:37:59:610950] Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2NjgwMjI4Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c >-->-->Nom_archiu>-->-->  46396.c 
+[10:11:22/16:46:46:561381] ID separat correctament : Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2NjgwMjI4Mg== 
+[10:11:22/16:46:46:561381] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c 
+[10:11:22/16:46:46:562361] Nom del archiu separat correctament : 46396.c  
+[10:11:22/16:46:46:973769] Peticio rebuda correctament :) 
+[10:11:22/16:46:46:974747] Analisis extret correctament 
+[10:11:22/16:46:46:975745] Escriure log report 
+[10:11:22/16:46:46:976701] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:46:977678] Escriure log malware 
+[10:11:22/16:46:46:980607] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:46:980607] (=================================================================) 
+[10:11:22/16:46:46:981581] 
+ 
+[10:11:22/16:46:46:981581] (=================================================================) 
+[10:11:22/16:46:46:982557] Linea del archiu llegida correctament 
+[10:11:22/16:46:46:982557] Linea 13: [26:10:22/18:38:00:846067] MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2NjgwMjI4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c >-->-->Nom_archiu>-->-->  46493.c 
+[10:11:22/16:46:46:983535] ID separat correctament : MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2NjgwMjI4Mw== 
+[10:11:22/16:46:46:983535] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c 
+[10:11:22/16:46:46:984511] Nom del archiu separat correctament : 46493.c  
+[10:11:22/16:46:47:462885] Peticio rebuda correctament :) 
+[10:11:22/16:46:47:463880] Analisis extret correctament 
+[10:11:22/16:46:47:464914] Escriure log report 
+[10:11:22/16:46:47:465857] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:47:466793] (=================================================================) 
+[10:11:22/16:46:47:466793] 
+ 
+[10:11:22/16:46:47:467792] (=================================================================) 
+[10:11:22/16:46:47:467792] Linea del archiu llegida correctament 
+[10:11:22/16:46:47:468763] Linea 14: [26:10:22/18:38:01:496791] ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2NjgwMjI4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c >-->-->Nom_archiu>-->-->  46256.c 
+[10:11:22/16:46:47:469721] ID separat correctament : ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2NjgwMjI4Mw== 
+[10:11:22/16:46:47:469721] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c 
+[10:11:22/16:46:47:470709] Nom del archiu separat correctament : 46256.c  
+[10:11:22/16:46:47:866664] Peticio rebuda correctament :) 
+[10:11:22/16:46:47:867597] Analisis extret correctament 
+[10:11:22/16:46:47:868628] Escriure log report 
+[10:11:22/16:46:47:869551] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:47:870529] Escriure log malware 
+[10:11:22/16:46:47:872482] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:47:873488] (=================================================================) 
+[10:11:22/16:46:47:873488] 
+ 
+[10:11:22/16:46:47:874434] (=================================================================) 
+[10:11:22/16:46:47:875415] Linea del archiu llegida correctament 
+[10:11:22/16:46:47:875415] Linea 15: [26:10:22/18:38:02:057799] Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2NjgwMjI4NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c >-->-->Nom_archiu>-->-->  46257.c 
+[10:11:22/16:46:47:876389] ID separat correctament : Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2NjgwMjI4NA== 
+[10:11:22/16:46:47:876389] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c 
+[10:11:22/16:46:47:877366] Nom del archiu separat correctament : 46257.c  
+[10:11:22/16:46:48:369199] Peticio rebuda correctament :) 
+[10:11:22/16:46:48:370130] Analisis extret correctament 
+[10:11:22/16:46:48:371106] Escriure log report 
+[10:11:22/16:46:48:372083] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:48:372083] Escriure log malware 
+[10:11:22/16:46:48:375023] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:48:375991] (=================================================================) 
+[10:11:22/16:46:48:375991] 
+ 
+[10:11:22/16:46:48:376971] (=================================================================) 
+[10:11:22/16:46:48:377942] Linea del archiu llegida correctament 
+[10:11:22/16:46:48:377942] Linea 16: [26:10:22/18:38:02:862805] MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2NjgwMjI4NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c >-->-->Nom_archiu>-->-->  46275.c 
+[10:11:22/16:46:48:378923] ID separat correctament : MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2NjgwMjI4NQ== 
+[10:11:22/16:46:48:378923] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c 
+[10:11:22/16:46:48:379895] Nom del archiu separat correctament : 46275.c  
+[10:11:22/16:46:48:782255] Peticio rebuda correctament :) 
+[10:11:22/16:46:48:783265] Analisis extret correctament 
+[10:11:22/16:46:48:784211] Escriure log report 
+[10:11:22/16:46:48:784211] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:48:785186] Escriure log malware 
+[10:11:22/16:46:48:788114] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:48:788114] (=================================================================) 
+[10:11:22/16:46:48:789100] 
+ 
+[10:11:22/16:46:48:789100] (=================================================================) 
+[10:11:22/16:46:48:790073] Linea del archiu llegida correctament 
+[10:11:22/16:46:48:790073] Linea 17: [26:10:22/18:38:03:579809] ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2NjgwMjI4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c >-->-->Nom_archiu>-->-->  46277.c 
+[10:11:22/16:46:48:792026] ID separat correctament : ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2NjgwMjI4Ng== 
+[10:11:22/16:46:48:792026] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c 
+[10:11:22/16:46:48:793004] Nom del archiu separat correctament : 46277.c  
+[10:11:22/16:46:49:724430] Peticio rebuda correctament :) 
+[10:11:22/16:46:49:725410] Analisis extret correctament 
+[10:11:22/16:46:49:726390] Escriure log report 
+[10:11:22/16:46:49:727359] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:49:727359] (=================================================================) 
+[10:11:22/16:46:49:728336] 
+ 
+[10:11:22/16:46:49:729313] (=================================================================) 
+[10:11:22/16:46:49:729313] Linea del archiu llegida correctament 
+[10:11:22/16:46:49:730297] Linea 18: [26:10:22/18:38:04:259818] MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2NjgwMjI4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c >-->-->Nom_archiu>-->-->  46393.c 
+[10:11:22/16:46:49:731265] ID separat correctament : MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2NjgwMjI4Ng== 
+[10:11:22/16:46:49:731265] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c 
+[10:11:22/16:46:49:732242] Nom del archiu separat correctament : 46393.c  
+[10:11:22/16:46:50:250998] Peticio rebuda correctament :) 
+[10:11:22/16:46:50:251947] Analisis extret correctament 
+[10:11:22/16:46:50:252917] Escriure log report 
+[10:11:22/16:46:50:253896] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:50:254873] Escriure log malware 
+[10:11:22/16:46:50:256840] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:50:257800] (=================================================================) 
+[10:11:22/16:46:50:257800] 
+ 
+[10:11:22/16:46:50:258776] (=================================================================) 
+[10:11:22/16:46:50:258776] Linea del archiu llegida correctament 
+[10:11:22/16:46:50:259753] Linea 19: [26:10:22/18:38:05:013823] Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2NjgwMjI4Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50917.js >-->-->Nom_archiu>-->-->  50917.js 
+[10:11:22/16:46:50:259753] ID separat correctament : Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2NjgwMjI4Nw== 
+[10:11:22/16:46:50:260729] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50917.js 
+[10:11:22/16:46:50:260729] Nom del archiu separat correctament : 50917.js  
+[10:11:22/16:46:50:875935] Peticio rebuda correctament :) 
+[10:11:22/16:46:50:875935] Analisis extret correctament 
+[10:11:22/16:46:50:876912] Escriure log report 
+[10:11:22/16:46:50:877890] separar informacio:  malicius :  1 suspicius:  0 
+[10:11:22/16:46:50:878868] Escriure log malware 
+[10:11:22/16:46:50:880834] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:50:881795] (=================================================================) 
+[10:11:22/16:46:50:881795] 
+ 
+[10:11:22/16:46:50:882772] (=================================================================) 
+[10:11:22/16:46:50:882772] Linea del archiu llegida correctament 
+[10:11:22/16:46:50:883748] Linea 20: [26:10:22/18:38:05:754827] NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2NjgwMjI4OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50925.html >-->-->Nom_archiu>-->-->  50925.html 
+[10:11:22/16:46:50:884725] ID separat correctament : NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2NjgwMjI4OA== 
+[10:11:22/16:46:50:884725] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50925.html 
+[10:11:22/16:46:50:885703] Nom del archiu separat correctament : 50925.html  
+[10:11:22/16:46:51:370055] Peticio rebuda correctament :) 
+[10:11:22/16:46:51:371033] Analisis extret correctament 
+[10:11:22/16:46:51:372014] Escriure log report 
+[10:11:22/16:46:51:372986] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:51:372986] (=================================================================) 
+[10:11:22/16:46:51:373964] 
+ 
+[10:11:22/16:46:51:373964] (=================================================================) 
+[10:11:22/16:46:51:374938] Linea del archiu llegida correctament 
+[10:11:22/16:46:51:375914] Linea 21: [26:10:22/18:38:06:675848] ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2NjgwMjI4OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50943.py >-->-->Nom_archiu>-->-->  50943.py 
+[10:11:22/16:46:51:375914] ID separat correctament : ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2NjgwMjI4OQ== 
+[10:11:22/16:46:51:376892] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50943.py 
+[10:11:22/16:46:51:377868] Nom del archiu separat correctament : 50943.py  
+[10:11:22/16:46:51:882772] Peticio rebuda correctament :) 
+[10:11:22/16:46:51:883704] Analisis extret correctament 
+[10:11:22/16:46:51:884683] Escriure log report 
+[10:11:22/16:46:51:884683] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:51:885658] (=================================================================) 
+[10:11:22/16:46:51:885658] 
+ 
+[10:11:22/16:46:51:886649] (=================================================================) 
+[10:11:22/16:46:51:886649] Linea del archiu llegida correctament 
+[10:11:22/16:46:51:887610] Linea 22: [26:10:22/18:38:07:269615] OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2NjgwMjI4OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50944.py >-->-->Nom_archiu>-->-->  50944.py 
+[10:11:22/16:46:51:888586] ID separat correctament : OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2NjgwMjI4OQ== 
+[10:11:22/16:46:51:888586] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50944.py 
+[10:11:22/16:46:51:889563] Nom del archiu separat correctament : 50944.py  
+[10:11:22/16:46:52:333913] Peticio rebuda correctament :) 
+[10:11:22/16:46:52:334854] Analisis extret correctament 
+[10:11:22/16:46:52:335834] Escriure log report 
+[10:11:22/16:46:52:336809] separar informacio:  malicius :  1 suspicius:  0 
+[10:11:22/16:46:52:337785] Escriure log malware 
+[10:11:22/16:46:52:339738] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:52:339738] (=================================================================) 
+[10:11:22/16:46:52:340714] 
+ 
+[10:11:22/16:46:52:341712] (=================================================================) 
+[10:11:22/16:46:52:341712] Linea del archiu llegida correctament 
+[10:11:22/16:46:52:342668] Linea 23: [26:10:22/18:38:07:966655] YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2NjgwMjI5MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50945.tzt >-->-->Nom_archiu>-->-->  50945.tzt 
+[10:11:22/16:46:52:342668] ID separat correctament : YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2NjgwMjI5MA== 
+[10:11:22/16:46:52:343647] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50945.tzt 
+[10:11:22/16:46:52:343647] Nom del archiu separat correctament : 50945.tzt  
+[10:11:22/16:46:52:722936] Peticio rebuda correctament :) 
+[10:11:22/16:46:52:722936] Analisis extret correctament 
+[10:11:22/16:46:52:723884] Escriure log report 
+[10:11:22/16:46:52:724902] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:52:725837] (=================================================================) 
+[10:11:22/16:46:52:725837] 
+ 
+[10:11:22/16:46:52:726811] (=================================================================) 
+[10:11:22/16:46:52:726811] Linea del archiu llegida correctament 
+[10:11:22/16:46:52:727791] Linea 24: [26:10:22/18:38:08:513627] Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2NjgwMjI5MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51009.rb >-->-->Nom_archiu>-->-->  51009.rb 
+[10:11:22/16:46:52:727791] ID separat correctament : Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2NjgwMjI5MQ== 
+[10:11:22/16:46:52:728765] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51009.rb 
+[10:11:22/16:46:52:729742] Nom del archiu separat correctament : 51009.rb  
+[10:11:22/16:46:53:424115] Peticio rebuda correctament :) 
+[10:11:22/16:46:53:424115] Analisis extret correctament 
+[10:11:22/16:46:53:425070] Escriure log report 
+[10:11:22/16:46:53:426041] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:46:53:427028] Escriure log malware 
+[10:11:22/16:46:53:428969] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:46:53:429944] (=================================================================) 
+[10:11:22/16:46:53:429944] 
+ 
+[10:11:22/16:46:53:430919] (=================================================================) 
+[10:11:22/16:46:53:430919] Linea del archiu llegida correctament 
+[10:11:22/16:46:53:431899] Linea 25: [26:10:22/18:38:09:094636] NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2NjgwMjI5MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51010.py >-->-->Nom_archiu>-->-->  51010.py 
+[10:11:22/16:46:53:431899] ID separat correctament : NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2NjgwMjI5MQ== 
+[10:11:22/16:46:53:432876] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51010.py 
+[10:11:22/16:46:53:433854] Nom del archiu separat correctament : 51010.py  
+[10:11:22/16:46:53:932780] Peticio rebuda correctament :) 
+[10:11:22/16:46:53:933713] Analisis extret correctament 
+[10:11:22/16:46:53:934689] Escriure log report 
+[10:11:22/16:46:53:935667] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:53:935667] (=================================================================) 
+[10:11:22/16:46:53:936642] 
+ 
+[10:11:22/16:46:53:936642] (=================================================================) 
+[10:11:22/16:46:53:937623] Linea del archiu llegida correctament 
+[10:11:22/16:46:53:938595] Linea 26: [26:10:22/18:38:09:774635] ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2NjgwMjI5Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51011.py >-->-->Nom_archiu>-->-->  51011.py 
+[10:11:22/16:46:53:938595] ID separat correctament : ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2NjgwMjI5Mg== 
+[10:11:22/16:46:53:939571] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51011.py 
+[10:11:22/16:46:53:940550] Nom del archiu separat correctament : 51011.py  
+[10:11:22/16:46:54:304039] Peticio rebuda correctament :) 
+[10:11:22/16:46:54:305028] Analisis extret correctament 
+[10:11:22/16:46:54:305994] Escriure log report 
+[10:11:22/16:46:54:306973] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:54:306973] (=================================================================) 
+[10:11:22/16:46:54:307946] 
+ 
+[10:11:22/16:46:54:307946] (=================================================================) 
+[10:11:22/16:46:54:308927] Linea del archiu llegida correctament 
+[10:11:22/16:46:54:308927] Linea 27: [26:10:22/18:38:10:478651] NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2NjgwMjI5Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51014.js >-->-->Nom_archiu>-->-->  51014.js 
+[10:11:22/16:46:54:309904] ID separat correctament : NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2NjgwMjI5Mg== 
+[10:11:22/16:46:54:309904] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51014.js 
+[10:11:22/16:46:54:310886] Nom del archiu separat correctament : 51014.js  
+[10:11:22/16:46:54:864479] Peticio rebuda correctament :) 
+[10:11:22/16:46:54:865415] Analisis extret correctament 
+[10:11:22/16:46:54:866392] Escriure log report 
+[10:11:22/16:46:54:867368] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:54:867368] (=================================================================) 
+[10:11:22/16:46:54:868350] 
+ 
+[10:11:22/16:46:54:868350] (=================================================================) 
+[10:11:22/16:46:54:869321] Linea del archiu llegida correctament 
+[10:11:22/16:46:54:870297] Linea 28: [26:10:22/18:38:11:041648] OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2NjgwMjI5Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51016.sh >-->-->Nom_archiu>-->-->  51016.sh 
+[10:11:22/16:46:54:870297] ID separat correctament : OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2NjgwMjI5Mw== 
+[10:11:22/16:46:54:871288] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51016.sh 
+[10:11:22/16:46:54:871288] Nom del archiu separat correctament : 51016.sh  
+[10:11:22/16:46:55:510846] Peticio rebuda correctament :) 
+[10:11:22/16:46:55:511806] Analisis extret correctament 
+[10:11:22/16:46:55:512784] Escriure log report 
+[10:11:22/16:46:55:513763] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:55:513763] (=================================================================) 
+[10:11:22/16:46:55:514745] 
+ 
+[10:11:22/16:46:55:515714] (=================================================================) 
+[10:11:22/16:46:55:515714] Linea del archiu llegida correctament 
+[10:11:22/16:46:55:516691] Linea 29: [26:10:22/18:38:12:394657] MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2NjgwMjI5NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/act sai.pdf >-->-->Nom_archiu>-->-->  act sai.pdf 
+[10:11:22/16:46:55:516691] ID separat correctament : MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2NjgwMjI5NA== 
+[10:11:22/16:46:55:517667] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/act 
+[10:11:22/16:46:55:517667] Nom del archiu separat correctament : act sai.pdf  
+[10:11:22/16:46:56:144285] Peticio rebuda correctament :) 
+[10:11:22/16:46:56:145264] Analisis extret correctament 
+[10:11:22/16:46:56:146241] Escriure log report 
+[10:11:22/16:46:56:147217] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:56:147217] (=================================================================) 
+[10:11:22/16:46:56:148195] 
+ 
+[10:11:22/16:46:56:148195] (=================================================================) 
+[10:11:22/16:46:56:149183] Linea del archiu llegida correctament 
+[10:11:22/16:46:56:150161] Linea 30: [26:10:22/18:38:12:982665] MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2NjgwMjI5NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/autor.py >-->-->Nom_archiu>-->-->  autor.py 
+[10:11:22/16:46:56:150161] ID separat correctament : MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2NjgwMjI5NQ== 
+[10:11:22/16:46:56:151123] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/autor.py 
+[10:11:22/16:46:56:151123] Nom del archiu separat correctament : autor.py  
+[10:11:22/16:46:56:537035] Peticio rebuda correctament :) 
+[10:11:22/16:46:56:537973] Analisis extret correctament 
+[10:11:22/16:46:56:538948] Escriure log report 
+[10:11:22/16:46:56:539931] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:56:539931] (=================================================================) 
+[10:11:22/16:46:56:540901] 
+ 
+[10:11:22/16:46:56:541904] (=================================================================) 
+[10:11:22/16:46:56:542853] Linea del archiu llegida correctament 
+[10:11:22/16:46:56:543830] Linea 31: [26:10:22/18:38:24:629755] Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2NjgwMjMwNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/DirectX 9.0c Repack.exe >-->-->Nom_archiu>-->-->  DirectX 9.0c Repack.exe 
+[10:11:22/16:46:56:543830] ID separat correctament : Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2NjgwMjMwNw== 
+[10:11:22/16:46:56:544808] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/DirectX 
+[10:11:22/16:46:56:544808] Nom del archiu separat correctament : DirectX 9.0c Repack.exe  
+[10:11:22/16:46:57:155677] Peticio rebuda correctament :) 
+[10:11:22/16:46:57:156592] Analisis extret correctament 
+[10:11:22/16:46:57:157570] Escriure log report 
+[10:11:22/16:46:57:159525] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:57:159525] (=================================================================) 
+[10:11:22/16:46:57:160499] 
+ 
+[10:11:22/16:46:57:161478] (=================================================================) 
+[10:11:22/16:46:57:162454] Linea del archiu llegida correctament 
+[10:11:22/16:46:57:163453] Linea 32: [26:10:22/18:38:33:255832] YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2NjgwMjMxNQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Doc1.docx >-->-->Nom_archiu>-->-->  Doc1.docx 
+[10:11:22/16:46:57:164404] ID separat correctament : YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2NjgwMjMxNQ== 
+[10:11:22/16:46:57:164404] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Doc1.docx 
+[10:11:22/16:46:57:165380] Nom del archiu separat correctament : Doc1.docx  
+[10:11:22/16:46:57:751216] Peticio rebuda correctament :) 
+[10:11:22/16:46:57:752200] Analisis extret correctament 
+[10:11:22/16:46:57:753125] Escriure log report 
+[10:11:22/16:46:57:754101] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:57:754101] (=================================================================) 
+[10:11:22/16:46:57:755112] 
+ 
+[10:11:22/16:46:57:755112] (=================================================================) 
+[10:11:22/16:46:57:756060] Linea del archiu llegida correctament 
+[10:11:22/16:46:57:757032] Linea 33: [26:10:22/18:38:33:946837] ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2NjgwMjMxNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ejercicio protocolos.xlsx >-->-->Nom_archiu>-->-->  Ejercicio protocolos.xlsx 
+[10:11:22/16:46:57:757032] ID separat correctament : ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2NjgwMjMxNg== 
+[10:11:22/16:46:57:758008] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ejercicio 
+[10:11:22/16:46:57:758986] Nom del archiu separat correctament : Ejercicio protocolos.xlsx  
+[10:11:22/16:46:58:450190] Peticio rebuda correctament :) 
+[10:11:22/16:46:58:451168] Analisis extret correctament 
+[10:11:22/16:46:58:452159] Escriure log report 
+[10:11:22/16:46:58:453121] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:58:453121] (=================================================================) 
+[10:11:22/16:46:58:454097] 
+ 
+[10:11:22/16:46:58:454097] (=================================================================) 
+[10:11:22/16:46:58:455099] Linea del archiu llegida correctament 
+[10:11:22/16:46:58:456051] Linea 34: [26:10:22/18:38:34:561861] ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2NjgwMjMxNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py >-->-->Nom_archiu>-->-->  ejerciciocompis.py 
+[10:11:22/16:46:58:456051] ID separat correctament : ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2NjgwMjMxNw== 
+[10:11:22/16:46:58:457035] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py 
+[10:11:22/16:46:58:458004] Nom del archiu separat correctament : ejerciciocompis.py  
+[10:11:22/16:46:58:942443] Peticio rebuda correctament :) 
+[10:11:22/16:46:58:943415] Analisis extret correctament 
+[10:11:22/16:46:58:944394] Escriure log report 
+[10:11:22/16:46:58:946353] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:58:947329] (=================================================================) 
+[10:11:22/16:46:58:948297] 
+ 
+[10:11:22/16:46:58:948297] (=================================================================) 
+[10:11:22/16:46:58:949279] Linea del archiu llegida correctament 
+[10:11:22/16:46:58:950251] Linea 35: [26:10:22/18:38:39:243899] MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2NjgwMjMyMQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb >-->-->Nom_archiu>-->-->  Ex02acces.accdb 
+[10:11:22/16:46:58:951228] ID separat correctament : MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2NjgwMjMyMQ== 
+[10:11:22/16:46:58:952203] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb 
+[10:11:22/16:46:58:952203] Nom del archiu separat correctament : Ex02acces.accdb  
+[10:11:22/16:46:59:356378] Peticio rebuda correctament :) 
+[10:11:22/16:46:59:357310] Analisis extret correctament 
+[10:11:22/16:46:59:359268] Escriure log report 
+[10:11:22/16:46:59:360241] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:59:361218] (=================================================================) 
+[10:11:22/16:46:59:361218] 
+ 
+[10:11:22/16:46:59:362194] (=================================================================) 
+[10:11:22/16:46:59:363169] Linea del archiu llegida correctament 
+[10:11:22/16:46:59:364149] Linea 36: [26:10:22/18:38:40:262885] ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2NjgwMjMyMg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg >-->-->Nom_archiu>-->-->  mecagoen.txt.gpg 
+[10:11:22/16:46:59:365131] ID separat correctament : ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2NjgwMjMyMg== 
+[10:11:22/16:46:59:365131] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg 
+[10:11:22/16:46:59:366100] Nom del archiu separat correctament : mecagoen.txt.gpg  
+[10:11:22/16:46:59:789016] Peticio rebuda correctament :) 
+[10:11:22/16:46:59:790943] Analisis extret correctament 
+[10:11:22/16:46:59:791938] Escriure log report 
+[10:11:22/16:46:59:792899] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:46:59:793871] (=================================================================) 
+[10:11:22/16:46:59:794849] 
+ 
+[10:11:22/16:46:59:794849] (=================================================================) 
+[10:11:22/16:46:59:795826] Linea del archiu llegida correctament 
+[10:11:22/16:46:59:796855] Linea 37: [26:10:22/18:38:54:012047] ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2NjgwMjMzNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Microsoft Visual C++ Pack v5.4 Repack.exe >-->-->Nom_archiu>-->-->  Microsoft Visual C++ Pack v5.4 Repack.exe 
+[10:11:22/16:46:59:797793] ID separat correctament : ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2NjgwMjMzNg== 
+[10:11:22/16:46:59:798759] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Microsoft 
+[10:11:22/16:46:59:799728] Nom del archiu separat correctament : Microsoft Visual C++ Pack v5.4 Repack.exe  
+[10:11:22/16:47:00:229072] Peticio rebuda correctament :) 
+[10:11:22/16:47:00:231042] Analisis extret correctament 
+[10:11:22/16:47:00:232005] Escriure log report 
+[10:11:22/16:47:00:232977] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:00:233954] (=================================================================) 
+[10:11:22/16:47:00:233954] 
+ 
+[10:11:22/16:47:00:234930] (=================================================================) 
+[10:11:22/16:47:00:234930] Linea del archiu llegida correctament 
+[10:11:22/16:47:00:235906] Linea 38: [26:10:22/18:38:54:595999] OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2NjgwMjMzNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/programa.py >-->-->Nom_archiu>-->-->  programa.py 
+[10:11:22/16:47:00:235906] ID separat correctament : OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2NjgwMjMzNw== 
+[10:11:22/16:47:00:236883] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/programa.py 
+[10:11:22/16:47:00:237860] Nom del archiu separat correctament : programa.py  
+[10:11:22/16:47:00:743855] Peticio rebuda correctament :) 
+[10:11:22/16:47:00:744788] Analisis extret correctament 
+[10:11:22/16:47:00:745807] Escriure log report 
+[10:11:22/16:47:00:745807] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:00:746742] (=================================================================) 
+[10:11:22/16:47:00:746742] 
+ 
+[10:11:22/16:47:00:747723] (=================================================================) 
+[10:11:22/16:47:00:747723] Linea del archiu llegida correctament 
+[10:11:22/16:47:00:748699] Linea 39: [26:10:22/18:38:55:230007] NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2NjgwMjMzNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/pro_act1.py >-->-->Nom_archiu>-->-->  pro_act1.py 
+[10:11:22/16:47:00:749670] ID separat correctament : NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2NjgwMjMzNw== 
+[10:11:22/16:47:00:750653] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/pro_act1.py 
+[10:11:22/16:47:00:750653] Nom del archiu separat correctament : pro_act1.py  
+[10:11:22/16:47:01:121331] Peticio rebuda correctament :) 
+[10:11:22/16:47:01:122244] Analisis extret correctament 
+[10:11:22/16:47:01:123220] Escriure log report 
+[10:11:22/16:47:01:123220] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:01:124195] (=================================================================) 
+[10:11:22/16:47:01:125176] 
+ 
+[10:11:22/16:47:01:125176] (=================================================================) 
+[10:11:22/16:47:01:126148] Linea del archiu llegida correctament 
+[10:11:22/16:47:01:126148] Linea 40: [26:10:22/18:38:55:846017] NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2NjgwMjMzOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/script.py >-->-->Nom_archiu>-->-->  script.py 
+[10:11:22/16:47:01:127124] ID separat correctament : NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2NjgwMjMzOA== 
+[10:11:22/16:47:01:127124] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/script.py 
+[10:11:22/16:47:01:128102] Nom del archiu separat correctament : script.py  
+[10:11:22/16:47:01:599627] Peticio rebuda correctament :) 
+[10:11:22/16:47:01:601574] Analisis extret correctament 
+[10:11:22/16:47:01:601574] Escriure log report 
+[10:11:22/16:47:01:602559] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:01:603503] (=================================================================) 
+[10:11:22/16:47:01:603503] 
+ 
+[10:11:22/16:47:01:604536] (=================================================================) 
+[10:11:22/16:47:01:604536] Linea del archiu llegida correctament 
+[10:11:22/16:47:01:605443] Linea 41: [26:10:22/18:38:56:439018] NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2NjgwMjMzOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/test.py >-->-->Nom_archiu>-->-->  test.py 
+[10:11:22/16:47:01:606424] ID separat correctament : NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2NjgwMjMzOA== 
+[10:11:22/16:47:01:606424] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/test.py 
+[10:11:22/16:47:01:607399] Nom del archiu separat correctament : test.py  
+[10:11:22/16:47:02:279686] Peticio rebuda correctament :) 
+[10:11:22/16:47:02:280623] Analisis extret correctament 
+[10:11:22/16:47:02:281599] Escriure log report 
+[10:11:22/16:47:02:282576] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:02:282576] (=================================================================) 
+[10:11:22/16:47:02:283552] 
+ 
+[10:11:22/16:47:02:283552] (=================================================================) 
+[10:11:22/16:47:02:284562] Linea del archiu llegida correctament 
+[10:11:22/16:47:02:284562] Linea 42: [26:10:22/18:39:19:846675] YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2NjgwMjM2Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip >-->-->Nom_archiu>-->-->  vt-py-master.zip 
+[10:11:22/16:47:02:285504] ID separat correctament : YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2NjgwMjM2Mg== 
+[10:11:22/16:47:02:285504] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip 
+[10:11:22/16:47:02:286481] Nom del archiu separat correctament : vt-py-master.zip  
+[10:11:22/16:47:02:719292] Peticio rebuda correctament :) 
+[10:11:22/16:47:02:721198] Analisis extret correctament 
+[10:11:22/16:47:02:721198] Escriure log report 
+[10:11:22/16:47:02:722214] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:02:723152] (=================================================================) 
+[10:11:22/16:47:02:723152] 
+ 
+[10:11:22/16:47:02:724126] (=================================================================) 
+[10:11:22/16:47:02:724126] Linea del archiu llegida correctament 
+[10:11:22/16:47:02:725104] Linea 43: [10:11:22/16:45:12:287362] MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2ODA5NTA3Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm >-->-->Nom_archiu>-->-->  50711.asm 
+[10:11:22/16:47:02:726090] ID separat correctament : MGJkOWRmODI3NGFkYjBmZTU2NzZlYWYyZTRhMDI1MzQ6MTY2ODA5NTA3Nw== 
+[10:11:22/16:47:02:726090] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50711.asm 
+[10:11:22/16:47:02:727056] Nom del archiu separat correctament : 50711.asm  
+[10:11:22/16:47:03:311427] Peticio rebuda correctament :) 
+[10:11:22/16:47:03:312404] Analisis extret correctament 
+[10:11:22/16:47:03:313382] Escriure log report 
+[10:11:22/16:47:03:314358] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:03:315336] (=================================================================) 
+[10:11:22/16:47:03:315336] 
+ 
+[10:11:22/16:47:03:316312] (=================================================================) 
+[10:11:22/16:47:03:316312] Linea del archiu llegida correctament 
+[10:11:22/16:47:03:317288] Linea 44: [10:11:22/16:45:13:305923] NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2ODA5NTA3OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm >-->-->Nom_archiu>-->-->  50722.asm 
+[10:11:22/16:47:03:317288] ID separat correctament : NDY2NGNmN2E1MTM1NDU1MTM4NzkxOTFhODJhZGQzODc6MTY2ODA5NTA3OA== 
+[10:11:22/16:47:03:318265] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\vnkjvkidspiv\50722.asm 
+[10:11:22/16:47:03:319241] Nom del archiu separat correctament : 50722.asm  
+[10:11:22/16:47:03:724649] Peticio rebuda correctament :) 
+[10:11:22/16:47:03:725625] Analisis extret correctament 
+[10:11:22/16:47:03:726563] Escriure log report 
+[10:11:22/16:47:03:727579] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:03:728513] (=================================================================) 
+[10:11:22/16:47:03:728513] 
+ 
+[10:11:22/16:47:03:729490] (=================================================================) 
+[10:11:22/16:47:03:730481] Linea del archiu llegida correctament 
+[10:11:22/16:47:03:730481] Linea 45: [10:11:22/16:45:13:969023] MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2ODA5NTA3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm >-->-->Nom_archiu>-->-->  50710.asm 
+[10:11:22/16:47:03:731442] ID separat correctament : MjcwYjFiODM5ZjkwZGNkNTMyN2FjZjIxNTZmYzdlNzU6MTY2ODA5NTA3OQ== 
+[10:11:22/16:47:03:731442] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\nvjoivievwicvv\50710.asm 
+[10:11:22/16:47:03:732460] Nom del archiu separat correctament : 50710.asm  
+[10:11:22/16:47:04:147397] Peticio rebuda correctament :) 
+[10:11:22/16:47:04:148379] Analisis extret correctament 
+[10:11:22/16:47:04:149352] Escriure log report 
+[10:11:22/16:47:04:150329] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:04:150329] (=================================================================) 
+[10:11:22/16:47:04:151304] 
+ 
+[10:11:22/16:47:04:151304] (=================================================================) 
+[10:11:22/16:47:04:152281] Linea del archiu llegida correctament 
+[10:11:22/16:47:04:153258] Linea 46: [10:11:22/16:45:14:644064] NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2ODA5NTA4MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c >-->-->Nom_archiu>-->-->  47296.c 
+[10:11:22/16:47:04:153258] ID separat correctament : NDFlOTQ4YjI5NDk2NGI0NzQwYWM0MmRmZjgzOGQxY2U6MTY2ODA5NTA4MA== 
+[10:11:22/16:47:04:154234] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\47296.c 
+[10:11:22/16:47:04:154234] Nom del archiu separat correctament : 47296.c  
+[10:11:22/16:47:04:556223] Peticio rebuda correctament :) 
+[10:11:22/16:47:04:557158] Analisis extret correctament 
+[10:11:22/16:47:04:558142] Escriure log report 
+[10:11:22/16:47:04:559110] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:04:559110] (=================================================================) 
+[10:11:22/16:47:04:560086] 
+ 
+[10:11:22/16:47:04:560086] (=================================================================) 
+[10:11:22/16:47:04:561061] Linea del archiu llegida correctament 
+[10:11:22/16:47:04:561061] Linea 47: [10:11:22/16:45:15:246552] OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2ODA5NTA4MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c >-->-->Nom_archiu>-->-->  50369.c 
+[10:11:22/16:47:04:562040] ID separat correctament : OWE5NDExNWY0ZGRiYjRlZjgzYTZkMTlkZTM4MWUzNzg6MTY2ODA5NTA4MA== 
+[10:11:22/16:47:04:563017] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\vmjsovijnvpev\50369.c 
+[10:11:22/16:47:04:563017] Nom del archiu separat correctament : 50369.c  
+[10:11:22/16:47:04:993775] Peticio rebuda correctament :) 
+[10:11:22/16:47:04:995691] Analisis extret correctament 
+[10:11:22/16:47:04:996691] Escriure log report 
+[10:11:22/16:47:04:996691] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:47:04:997636] (=================================================================) 
+[10:11:22/16:47:04:998615] 
+ 
+[10:11:22/16:47:04:998615] (=================================================================) 
+[10:11:22/16:47:04:999587] Linea del archiu llegida correctament 
+[10:11:22/16:47:05:000564] Linea 48: [10:11:22/16:45:15:975979] NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2ODA5NTA4MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm >-->-->Nom_archiu>-->-->  46679.nasm 
+[10:11:22/16:47:05:000564] ID separat correctament : NTMyYzBiOTlmMzJkYjVhOTM5MDkyZDU1NzMxNWMyN2Q6MTY2ODA5NTA4MQ== 
+[10:11:22/16:47:05:001544] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46679.nasm 
+[10:11:22/16:47:05:001544] Nom del archiu separat correctament : 46679.nasm  
+[10:11:22/16:47:05:459806] Peticio rebuda correctament :) 
+[10:11:22/16:47:05:461721] Archiu esta an cua ;( 
+[10:11:22/16:47:05:462698] Resposta : 200 
+[10:11:22/16:47:05:462698] Status : queued 
+[10:11:22/16:47:05:463675] Contador : 1 
+[10:11:22/16:47:05:463675] Maxims intens : 4/5 
+[10:11:22/16:47:05:464655] [16:47:05:459806] Temps comenca el temps de espera 
+[10:11:22/16:48:05:467149] [16:47:05:459806] Temps de espera Finalitzat 
+[10:11:22/16:48:05:981881] Peticio rebuda correctament :) 
+[10:11:22/16:48:05:981881] Analisis extret correctament 
+[10:11:22/16:48:05:982815] Escriure log report 
+[10:11:22/16:48:05:983829] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:48:05:984770] (=================================================================) 
+[10:11:22/16:48:05:984770] 
+ 
+[10:11:22/16:48:05:985771] (=================================================================) 
+[10:11:22/16:48:05:985771] Linea del archiu llegida correctament 
+[10:11:22/16:48:05:986722] Linea 49: [10:11:22/16:45:16:546173] M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2ODA5NTA4Mg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm >-->-->Nom_archiu>-->-->  46680.nasm 
+[10:11:22/16:48:05:986722] ID separat correctament : M2RjYjAzZTdiNDJmMDM3YTA2N2IxYWY1ZTk5MDA5MTA6MTY2ODA5NTA4Mg== 
+[10:11:22/16:48:05:987699] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\46680.nasm 
+[10:11:22/16:48:05:988675] Nom del archiu separat correctament : 46680.nasm  
+[10:11:22/16:48:06:374883] Peticio rebuda correctament :) 
+[10:11:22/16:48:06:375814] Analisis extret correctament 
+[10:11:22/16:48:06:375814] Escriure log report 
+[10:11:22/16:48:06:376821] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:48:06:377763] (=================================================================) 
+[10:11:22/16:48:06:377763] 
+ 
+[10:11:22/16:48:06:378743] (=================================================================) 
+[10:11:22/16:48:06:378743] Linea del archiu llegida correctament 
+[10:11:22/16:48:06:379717] Linea 50: [10:11:22/16:45:17:281271] MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2ODA5NTA4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c >-->-->Nom_archiu>-->-->  47239.c 
+[10:11:22/16:48:06:380703] ID separat correctament : MDFhNDVkZmZjNDNhNmNmZGI5OGYxNWQyY2IxYmFjNDk6MTY2ODA5NTA4Mw== 
+[10:11:22/16:48:06:380703] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47239.c 
+[10:11:22/16:48:06:381672] Nom del archiu separat correctament : 47239.c  
+[10:11:22/16:48:06:777983] Peticio rebuda correctament :) 
+[10:11:22/16:48:06:780870] Archiu esta an cua ;( 
+[10:11:22/16:48:06:780870] Resposta : 200 
+[10:11:22/16:48:06:781848] Status : queued 
+[10:11:22/16:48:06:781848] Contador : 1 
+[10:11:22/16:48:06:782823] Maxims intens : 4/5 
+[10:11:22/16:48:06:782823] [16:48:06:778946] Temps comenca el temps de espera 
+[10:11:22/16:49:06:786896] [16:48:06:778946] Temps de espera Finalitzat 
+[10:11:22/16:49:07:227706] Peticio rebuda correctament :) 
+[10:11:22/16:49:07:228698] Analisis extret correctament 
+[10:11:22/16:49:07:229661] Escriure log report 
+[10:11:22/16:49:07:230638] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:49:07:230638] Escriure log malware 
+[10:11:22/16:49:07:233568] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:49:07:233568] (=================================================================) 
+[10:11:22/16:49:07:234544] 
+ 
+[10:11:22/16:49:07:234544] (=================================================================) 
+[10:11:22/16:49:07:235521] Linea del archiu llegida correctament 
+[10:11:22/16:49:07:236498] Linea 51: [10:11:22/16:45:17:968624] MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2ODA5NTA4Mw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm >-->-->Nom_archiu>-->-->  47242.asm 
+[10:11:22/16:49:07:236498] ID separat correctament : MmE0MjY2MjViZjE4NWQ3MTIyNDEwYjBlMjgwZjFmYzc6MTY2ODA5NTA4Mw== 
+[10:11:22/16:49:07:237518] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\enveiwvneiwv\47242.asm 
+[10:11:22/16:49:07:238449] Nom del archiu separat correctament : 47242.asm  
+[10:11:22/16:49:07:655646] Peticio rebuda correctament :) 
+[10:11:22/16:49:07:656625] Analisis extret correctament 
+[10:11:22/16:49:07:657600] Escriure log report 
+[10:11:22/16:49:07:657600] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:49:07:658598] (=================================================================) 
+[10:11:22/16:49:07:659555] 
+ 
+[10:11:22/16:49:07:659555] (=================================================================) 
+[10:11:22/16:49:07:660535] Linea del archiu llegida correctament 
+[10:11:22/16:49:07:660535] Linea 52: [10:11:22/16:45:18:520728] NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2ODA5NTA4NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c >-->-->Nom_archiu>-->-->  46394.c 
+[10:11:22/16:49:07:661507] ID separat correctament : NTA5OGYyMTFlZTA4MTc1N2VlYzJjZGY0ZjgzZGJmOTQ6MTY2ODA5NTA4NA== 
+[10:11:22/16:49:07:662484] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46394.c 
+[10:11:22/16:49:07:662484] Nom del archiu separat correctament : 46394.c  
+[10:11:22/16:49:08:047597] Peticio rebuda correctament :) 
+[10:11:22/16:49:08:048507] Analisis extret correctament 
+[10:11:22/16:49:08:049490] Escriure log report 
+[10:11:22/16:49:08:050464] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:49:08:051439] Escriure log malware 
+[10:11:22/16:49:08:053401] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:49:08:053401] (=================================================================) 
+[10:11:22/16:49:08:054369] 
+ 
+[10:11:22/16:49:08:054369] (=================================================================) 
+[10:11:22/16:49:08:055345] Linea del archiu llegida correctament 
+[10:11:22/16:49:08:056322] Linea 53: [10:11:22/16:45:19:008606] ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2ODA5NTA4NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c >-->-->Nom_archiu>-->-->  46395.c 
+[10:11:22/16:49:08:056322] ID separat correctament : ZjFmMzhiMzc3M2RjOTFlYzMwZjU1MDA5NDg5N2E1OTI6MTY2ODA5NTA4NQ== 
+[10:11:22/16:49:08:057304] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46395.c 
+[10:11:22/16:49:08:057304] Nom del archiu separat correctament : 46395.c  
+[10:11:22/16:49:08:591359] Peticio rebuda correctament :) 
+[10:11:22/16:49:08:592325] Analisis extret correctament 
+[10:11:22/16:49:08:593303] Escriure log report 
+[10:11:22/16:49:08:594278] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:49:08:594278] Escriure log malware 
+[10:11:22/16:49:08:597207] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:49:08:597207] (=================================================================) 
+[10:11:22/16:49:08:598184] 
+ 
+[10:11:22/16:49:08:598184] (=================================================================) 
+[10:11:22/16:49:08:599160] Linea del archiu llegida correctament 
+[10:11:22/16:49:08:599160] Linea 54: [10:11:22/16:45:19:888390] Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2ODA5NTA4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c >-->-->Nom_archiu>-->-->  46396.c 
+[10:11:22/16:49:08:600138] ID separat correctament : Y2UzYThhZjY1MWFkOWQ0NjRhZmIxOTZmOGI5NDE3Yzk6MTY2ODA5NTA4Ng== 
+[10:11:22/16:49:08:601121] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46396.c 
+[10:11:22/16:49:08:601121] Nom del archiu separat correctament : 46396.c  
+[10:11:22/16:49:08:961374] Peticio rebuda correctament :) 
+[10:11:22/16:49:08:961374] Analisis extret correctament 
+[10:11:22/16:49:08:962343] Escriure log report 
+[10:11:22/16:49:08:963289] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:49:08:964268] Escriure log malware 
+[10:11:22/16:49:08:966222] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:49:08:967192] (=================================================================) 
+[10:11:22/16:49:08:967192] 
+ 
+[10:11:22/16:49:08:968169] (=================================================================) 
+[10:11:22/16:49:08:968169] Linea del archiu llegida correctament 
+[10:11:22/16:49:08:969145] Linea 55: [10:11:22/16:45:20:434431] MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2ODA5NTA4Ng== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c >-->-->Nom_archiu>-->-->  46493.c 
+[10:11:22/16:49:08:969145] ID separat correctament : MDY4MjcyZWZkZGJlMjFhY2I5MTA0N2QzZjExMDdhZWY6MTY2ODA5NTA4Ng== 
+[10:11:22/16:49:08:970127] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\vjiivhndfisqvhn\46493.c 
+[10:11:22/16:49:08:970127] Nom del archiu separat correctament : 46493.c  
+[10:11:22/16:49:09:354940] Peticio rebuda correctament :) 
+[10:11:22/16:49:09:356897] Archiu esta an cua ;( 
+[10:11:22/16:49:09:357874] Resposta : 200 
+[10:11:22/16:49:09:357874] Status : queued 
+[10:11:22/16:49:09:358852] Contador : 1 
+[10:11:22/16:49:09:359827] Maxims intens : 4/5 
+[10:11:22/16:49:09:359827] [16:49:09:354940] Temps comenca el temps de espera 
+[10:11:22/16:50:09:363658] [16:49:09:354940] Temps de espera Finalitzat 
+[10:11:22/16:50:10:062422] Peticio rebuda correctament :) 
+[10:11:22/16:50:10:064332] Archiu esta an cua ;( 
+[10:11:22/16:50:10:065310] Resposta : 200 
+[10:11:22/16:50:10:066287] Status : queued 
+[10:11:22/16:50:10:066287] Contador : 2 
+[10:11:22/16:50:10:067262] Maxims intens : 3/5 
+[10:11:22/16:50:10:067262] [16:50:10:062422] Temps comenca el temps de espera 
+[10:11:22/16:51:10:070386] [16:50:10:062422] Temps de espera Finalitzat 
+[10:11:22/16:51:10:589575] Peticio rebuda correctament :) 
+[10:11:22/16:51:10:591528] Archiu esta an cua ;( 
+[10:11:22/16:51:10:592504] Resposta : 200 
+[10:11:22/16:51:10:592504] Status : queued 
+[10:11:22/16:51:10:593483] Contador : 3 
+[10:11:22/16:51:10:594471] Maxims intens : 2/5 
+[10:11:22/16:51:10:594471] [16:51:10:589575] Temps comenca el temps de espera 
+[10:11:22/16:52:10:597538] [16:51:10:589575] Temps de espera Finalitzat 
+[10:11:22/16:52:11:048396] Peticio rebuda correctament :) 
+[10:11:22/16:52:11:050309] Archiu esta an cua ;( 
+[10:11:22/16:52:11:051285] Resposta : 200 
+[10:11:22/16:52:11:052270] Status : queued 
+[10:11:22/16:52:11:052270] Contador : 4 
+[10:11:22/16:52:11:053236] Maxims intens : 1/5 
+[10:11:22/16:52:11:053236] [16:52:11:048396] Temps comenca el temps de espera 
+[10:11:22/16:53:11:056014] [16:52:11:048396] Temps de espera Finalitzat 
+[10:11:22/16:53:11:429463] Peticio rebuda correctament :) 
+[10:11:22/16:53:11:432353] Archiu esta an cua ;( 
+[10:11:22/16:53:11:432353] Resposta : 200 
+[10:11:22/16:53:11:433331] Status : queued 
+[10:11:22/16:53:11:434306] Contador : 5 
+[10:11:22/16:53:11:435295] Maxims intens : 0/5 
+[10:11:22/16:53:11:435295] [16:53:11:430440] Temps comenca el temps de espera 
+[10:11:22/16:54:11:437861] [16:53:11:430440] Temps de espera Finalitzat 
+[10:11:22/16:54:11:799017] Peticio rebuda correctament :) 
+[10:11:22/16:54:11:799967] Intens de pujar el archiu maximes 5 
+[10:11:22/16:54:11:800901] Escriure log report 
+[10:11:22/16:54:11:801880] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:11:802858] (=================================================================) 
+[10:11:22/16:54:11:802858] 
+ 
+[10:11:22/16:54:11:803898] (=================================================================) 
+[10:11:22/16:54:11:804812] Linea del archiu llegida correctament 
+[10:11:22/16:54:11:804812] Linea 56: [10:11:22/16:45:21:082383] ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2ODA5NTA4Nw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c >-->-->Nom_archiu>-->-->  46256.c 
+[10:11:22/16:54:11:805833] ID separat correctament : ZjUzODBlMDk0MTJkZjdmOGJlZmU1Y2MwMjRlYmEyYmY6MTY2ODA5NTA4Nw== 
+[10:11:22/16:54:11:805833] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46256.c 
+[10:11:22/16:54:11:806762] Nom del archiu separat correctament : 46256.c  
+[10:11:22/16:54:12:246825] Peticio rebuda correctament :) 
+[10:11:22/16:54:12:247806] Analisis extret correctament 
+[10:11:22/16:54:12:248745] Escriure log report 
+[10:11:22/16:54:12:249712] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:12:250688] Escriure log malware 
+[10:11:22/16:54:12:252650] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:12:253616] (=================================================================) 
+[10:11:22/16:54:12:253616] 
+ 
+[10:11:22/16:54:12:254653] (=================================================================) 
+[10:11:22/16:54:12:256546] Linea del archiu llegida correctament 
+[10:11:22/16:54:12:256546] Linea 57: [10:11:22/16:45:21:571960] Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2ODA5NTA4OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c >-->-->Nom_archiu>-->-->  46257.c 
+[10:11:22/16:54:12:257586] ID separat correctament : Zjk2ZjVjZGY0NTU2OTAxOGIwMDFkODI1NjQ5YTAwZDU6MTY2ODA5NTA4OA== 
+[10:11:22/16:54:12:258499] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46257.c 
+[10:11:22/16:54:12:258499] Nom del archiu separat correctament : 46257.c  
+[10:11:22/16:54:12:726348] Peticio rebuda correctament :) 
+[10:11:22/16:54:12:727308] Analisis extret correctament 
+[10:11:22/16:54:12:728337] Escriure log report 
+[10:11:22/16:54:12:729252] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:12:729252] Escriure log malware 
+[10:11:22/16:54:12:732181] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:12:732181] (=================================================================) 
+[10:11:22/16:54:12:733168] 
+ 
+[10:11:22/16:54:12:733168] (=================================================================) 
+[10:11:22/16:54:12:734176] Linea del archiu llegida correctament 
+[10:11:22/16:54:12:735107] Linea 58: [10:11:22/16:45:22:120850] MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2ODA5NTEyNQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c >-->-->Nom_archiu>-->-->  46275.c 
+[10:11:22/16:54:12:735107] ID separat correctament : MjllMzcwODViNzBiYmY1Njg3NTZjYzZjZjEwMzRkZjI6MTY2ODA5NTEyNQ== 
+[10:11:22/16:54:12:736086] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46275.c 
+[10:11:22/16:54:12:736086] Nom del archiu separat correctament : 46275.c  
+[10:11:22/16:54:13:146846] Peticio rebuda correctament :) 
+[10:11:22/16:54:13:147779] Analisis extret correctament 
+[10:11:22/16:54:13:148756] Escriure log report 
+[10:11:22/16:54:13:149733] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:13:150723] Escriure log malware 
+[10:11:22/16:54:13:152662] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:13:152662] (=================================================================) 
+[10:11:22/16:54:13:153643] 
+ 
+[10:11:22/16:54:13:153643] (=================================================================) 
+[10:11:22/16:54:13:154620] Linea del archiu llegida correctament 
+[10:11:22/16:54:13:155605] Linea 59: [10:11:22/16:45:22:760913] ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2ODA5NTEyNQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c >-->-->Nom_archiu>-->-->  46277.c 
+[10:11:22/16:54:13:155605] ID separat correctament : ZjBjNDY3Y2Y2NWEwM2QyN2M0ZmUwMGUzOWQ5ZWRlMzI6MTY2ODA5NTEyNQ== 
+[10:11:22/16:54:13:156569] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46277.c 
+[10:11:22/16:54:13:156569] Nom del archiu separat correctament : 46277.c  
+[10:11:22/16:54:13:545802] Peticio rebuda correctament :) 
+[10:11:22/16:54:13:546738] Analisis extret correctament 
+[10:11:22/16:54:13:547713] Escriure log report 
+[10:11:22/16:54:13:548692] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:13:549668] Escriure log malware 
+[10:11:22/16:54:13:552597] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:13:552597] (=================================================================) 
+[10:11:22/16:54:13:553572] 
+ 
+[10:11:22/16:54:13:553572] (=================================================================) 
+[10:11:22/16:54:13:554546] Linea del archiu llegida correctament 
+[10:11:22/16:54:13:554546] Linea 60: [10:11:22/16:45:23:438551] MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2ODA5NTEyNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c >-->-->Nom_archiu>-->-->  46393.c 
+[10:11:22/16:54:13:555526] ID separat correctament : MGNhYWRiNDhlZDc4MmE3NGVhMzg4ZWY2ZGMyMjUxZDM6MTY2ODA5NTEyNg== 
+[10:11:22/16:54:13:555526] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/cbdscjuibdsc\46393.c 
+[10:11:22/16:54:13:556500] Nom del archiu separat correctament : 46393.c  
+[10:11:22/16:54:13:936272] Peticio rebuda correctament :) 
+[10:11:22/16:54:13:937247] Analisis extret correctament 
+[10:11:22/16:54:13:938227] Escriure log report 
+[10:11:22/16:54:13:939202] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:13:940178] Escriure log malware 
+[10:11:22/16:54:13:942130] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:13:943108] (=================================================================) 
+[10:11:22/16:54:13:943108] 
+ 
+[10:11:22/16:54:13:944085] (=================================================================) 
+[10:11:22/16:54:13:944085] Linea del archiu llegida correctament 
+[10:11:22/16:54:13:945061] Linea 61: [10:11:22/16:45:24:284004] Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2ODA5NTEyNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50917.js >-->-->Nom_archiu>-->-->  50917.js 
+[10:11:22/16:54:13:945061] ID separat correctament : Yjg5NWIwOGJiMjMxYzUwZjVhMWU3NzNlZDQ1NmEyZjU6MTY2ODA5NTEyNw== 
+[10:11:22/16:54:13:946038] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50917.js 
+[10:11:22/16:54:13:947028] Nom del archiu separat correctament : 50917.js  
+[10:11:22/16:54:14:430522] Peticio rebuda correctament :) 
+[10:11:22/16:54:14:431454] Analisis extret correctament 
+[10:11:22/16:54:14:432433] Escriure log report 
+[10:11:22/16:54:14:433410] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:14:434390] Escriure log malware 
+[10:11:22/16:54:14:436338] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:14:436338] (=================================================================) 
+[10:11:22/16:54:14:437330] 
+ 
+[10:11:22/16:54:14:438292] (=================================================================) 
+[10:11:22/16:54:14:438292] Linea del archiu llegida correctament 
+[10:11:22/16:54:14:439268] Linea 62: [10:11:22/16:45:24:882397] NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2ODA5NTEyOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50925.html >-->-->Nom_archiu>-->-->  50925.html 
+[10:11:22/16:54:14:440248] ID separat correctament : NWVhNDU0MjhiZTk1MGJiMGI5ODAwNTU1YWQ5M2Q4N2Y6MTY2ODA5NTEyOA== 
+[10:11:22/16:54:14:441236] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50925.html 
+[10:11:22/16:54:14:442198] Nom del archiu separat correctament : 50925.html  
+[10:11:22/16:54:15:119035] Peticio rebuda correctament :) 
+[10:11:22/16:54:15:119969] Analisis extret correctament 
+[10:11:22/16:54:15:120946] Escriure log report 
+[10:11:22/16:54:15:121923] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:15:121923] (=================================================================) 
+[10:11:22/16:54:15:122898] 
+ 
+[10:11:22/16:54:15:122898] (=================================================================) 
+[10:11:22/16:54:15:123875] Linea del archiu llegida correctament 
+[10:11:22/16:54:15:123875] Linea 63: [10:11:22/16:45:25:441028] ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2ODA5NTEyOA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50943.py >-->-->Nom_archiu>-->-->  50943.py 
+[10:11:22/16:54:15:124851] ID separat correctament : ZDJlMWRhZGNmOTA5ODQ4MTNlZTEyNTZiYTcxNWI1YjE6MTY2ODA5NTEyOA== 
+[10:11:22/16:54:15:125831] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50943.py 
+[10:11:22/16:54:15:125831] Nom del archiu separat correctament : 50943.py  
+[10:11:22/16:54:15:589889] Peticio rebuda correctament :) 
+[10:11:22/16:54:15:590823] Analisis extret correctament 
+[10:11:22/16:54:15:591813] Escriure log report 
+[10:11:22/16:54:15:592777] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:15:592777] (=================================================================) 
+[10:11:22/16:54:15:593755] 
+ 
+[10:11:22/16:54:15:594730] (=================================================================) 
+[10:11:22/16:54:15:594730] Linea del archiu llegida correctament 
+[10:11:22/16:54:15:595708] Linea 64: [10:11:22/16:45:26:704888] OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2ODA5NTEyOQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50944.py >-->-->Nom_archiu>-->-->  50944.py 
+[10:11:22/16:54:15:595708] ID separat correctament : OGMxN2E1ZWVlNGMzYjA4MzkwZmY0NWRlNjM4ODM3OGU6MTY2ODA5NTEyOQ== 
+[10:11:22/16:54:15:596683] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50944.py 
+[10:11:22/16:54:15:596683] Nom del archiu separat correctament : 50944.py  
+[10:11:22/16:54:16:020845] Peticio rebuda correctament :) 
+[10:11:22/16:54:16:021779] Analisis extret correctament 
+[10:11:22/16:54:16:022758] Escriure log report 
+[10:11:22/16:54:16:022758] separar informacio:  malicius :  1 suspicius:  0 
+[10:11:22/16:54:16:023737] Escriure log malware 
+[10:11:22/16:54:16:025685] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:16:026703] (=================================================================) 
+[10:11:22/16:54:16:026703] 
+ 
+[10:11:22/16:54:16:027638] (=================================================================) 
+[10:11:22/16:54:16:028615] Linea del archiu llegida correctament 
+[10:11:22/16:54:16:028615] Linea 65: [10:11:22/16:45:27:575070] YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2ODA5NTEzMA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/50945.tzt >-->-->Nom_archiu>-->-->  50945.tzt 
+[10:11:22/16:54:16:029592] ID separat correctament : YmVhOTM1ZDU0MzVlOTMxYzliNTc1MjAzZTNkYTVhNTc6MTY2ODA5NTEzMA== 
+[10:11:22/16:54:16:029592] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/50945.tzt 
+[10:11:22/16:54:16:030568] Nom del archiu separat correctament : 50945.tzt  
+[10:11:22/16:54:16:456198] Peticio rebuda correctament :) 
+[10:11:22/16:54:16:457137] Analisis extret correctament 
+[10:11:22/16:54:16:458158] Escriure log report 
+[10:11:22/16:54:16:458158] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:16:459087] (=================================================================) 
+[10:11:22/16:54:16:459087] 
+ 
+[10:11:22/16:54:16:460063] (=================================================================) 
+[10:11:22/16:54:16:461040] Linea del archiu llegida correctament 
+[10:11:22/16:54:16:461040] Linea 66: [10:11:22/16:45:28:853585] Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2ODA5NTEzMQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51009.rb >-->-->Nom_archiu>-->-->  51009.rb 
+[10:11:22/16:54:16:462015] ID separat correctament : Y2JmMWRkZjkzMGNmYTQ5NDI4Mjk0NzcxZDRjYzYyMmU6MTY2ODA5NTEzMQ== 
+[10:11:22/16:54:16:462994] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51009.rb 
+[10:11:22/16:54:16:462994] Nom del archiu separat correctament : 51009.rb  
+[10:11:22/16:54:16:841728] Peticio rebuda correctament :) 
+[10:11:22/16:54:16:842708] Analisis extret correctament 
+[10:11:22/16:54:16:843700] Escriure log report 
+[10:11:22/16:54:16:844661] separar informacio:  malicius :  2 suspicius:  0 
+[10:11:22/16:54:16:844661] Escriure log malware 
+[10:11:22/16:54:16:847597] Archiu malicios copiat al directori quarantena :S 
+[10:11:22/16:54:16:848566] (=================================================================) 
+[10:11:22/16:54:16:848566] 
+ 
+[10:11:22/16:54:16:849543] (=================================================================) 
+[10:11:22/16:54:16:849543] Linea del archiu llegida correctament 
+[10:11:22/16:54:16:850519] Linea 67: [10:11:22/16:45:29:440471] NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2ODA5NTEzMg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51010.py >-->-->Nom_archiu>-->-->  51010.py 
+[10:11:22/16:54:16:850519] ID separat correctament : NDY2MDBlMTNiMGQ5MGQ5ODk2MWIxNzkyMDMwMDJhODU6MTY2ODA5NTEzMg== 
+[10:11:22/16:54:16:851513] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51010.py 
+[10:11:22/16:54:16:851513] Nom del archiu separat correctament : 51010.py  
+[10:11:22/16:54:17:260754] Peticio rebuda correctament :) 
+[10:11:22/16:54:17:261731] Analisis extret correctament 
+[10:11:22/16:54:17:262668] Escriure log report 
+[10:11:22/16:54:17:263671] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:17:264619] (=================================================================) 
+[10:11:22/16:54:17:264619] 
+ 
+[10:11:22/16:54:17:265597] (=================================================================) 
+[10:11:22/16:54:17:265597] Linea del archiu llegida correctament 
+[10:11:22/16:54:17:266572] Linea 68: [10:11:22/16:45:30:123453] ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2ODA5NTEzMw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51011.py >-->-->Nom_archiu>-->-->  51011.py 
+[10:11:22/16:54:17:266572] ID separat correctament : ZjQyMzI0OWNhZThhYTIxYzExYThlMzQyNzYwMGI5YWM6MTY2ODA5NTEzMw== 
+[10:11:22/16:54:17:267550] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51011.py 
+[10:11:22/16:54:17:267550] Nom del archiu separat correctament : 51011.py  
+[10:11:22/16:54:17:584724] Peticio rebuda correctament :) 
+[10:11:22/16:54:17:585714] Analisis extret correctament 
+[10:11:22/16:54:17:586683] Escriure log report 
+[10:11:22/16:54:17:587659] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:17:588634] (=================================================================) 
+[10:11:22/16:54:17:588634] 
+ 
+[10:11:22/16:54:17:589610] (=================================================================) 
+[10:11:22/16:54:17:589610] Linea del archiu llegida correctament 
+[10:11:22/16:54:17:590587] Linea 69: [10:11:22/16:45:30:944564] NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2ODA5NTEzMw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51014.js >-->-->Nom_archiu>-->-->  51014.js 
+[10:11:22/16:54:17:591562] ID separat correctament : NzBmOTlmN2Q1NjllN2I0OGZhZDFhYjU2YTdiNmJiN2Y6MTY2ODA5NTEzMw== 
+[10:11:22/16:54:17:591562] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51014.js 
+[10:11:22/16:54:17:592539] Nom del archiu separat correctament : 51014.js  
+[10:11:22/16:54:17:953195] Peticio rebuda correctament :) 
+[10:11:22/16:54:17:954101] Analisis extret correctament 
+[10:11:22/16:54:17:955078] Escriure log report 
+[10:11:22/16:54:17:956055] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:17:956055] (=================================================================) 
+[10:11:22/16:54:17:957032] 
+ 
+[10:11:22/16:54:17:957032] (=================================================================) 
+[10:11:22/16:54:17:958009] Linea del archiu llegida correctament 
+[10:11:22/16:54:17:958988] Linea 70: [10:11:22/16:45:31:662120] OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2ODA5NTEzNA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/51016.sh >-->-->Nom_archiu>-->-->  51016.sh 
+[10:11:22/16:54:17:958988] ID separat correctament : OGY4NTMyNzAyZjdmYmIyMzA3ZTQ0MTQ4ODE5M2MwYzE6MTY2ODA5NTEzNA== 
+[10:11:22/16:54:17:959961] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/51016.sh 
+[10:11:22/16:54:17:959961] Nom del archiu separat correctament : 51016.sh  
+[10:11:22/16:54:18:315229] Peticio rebuda correctament :) 
+[10:11:22/16:54:18:316202] Analisis extret correctament 
+[10:11:22/16:54:18:317180] Escriure log report 
+[10:11:22/16:54:18:318171] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:18:318171] (=================================================================) 
+[10:11:22/16:54:18:319135] 
+ 
+[10:11:22/16:54:18:320112] (=================================================================) 
+[10:11:22/16:54:18:320112] Linea del archiu llegida correctament 
+[10:11:22/16:54:18:321088] Linea 71: [10:11:22/16:45:33:292811] MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2ODA5NTEzNg== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/act sai.pdf >-->-->Nom_archiu>-->-->  act sai.pdf 
+[10:11:22/16:54:18:321088] ID separat correctament : MDViNGFlNDFlYzk0YzQyZmFhZmY2NDc5YTAyYmVhMjg6MTY2ODA5NTEzNg== 
+[10:11:22/16:54:18:322077] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/act 
+[10:11:22/16:54:18:323042] Nom del archiu separat correctament : act sai.pdf  
+[10:11:22/16:54:18:797005] Peticio rebuda correctament :) 
+[10:11:22/16:54:18:797005] Analisis extret correctament 
+[10:11:22/16:54:18:797984] Escriure log report 
+[10:11:22/16:54:18:798958] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:18:799937] (=================================================================) 
+[10:11:22/16:54:18:799937] 
+ 
+[10:11:22/16:54:18:800912] (=================================================================) 
+[10:11:22/16:54:18:801889] Linea del archiu llegida correctament 
+[10:11:22/16:54:18:801889] Linea 72: [10:11:22/16:45:34:154481] MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2ODA5NTEzNw== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/autor.py >-->-->Nom_archiu>-->-->  autor.py 
+[10:11:22/16:54:18:802867] ID separat correctament : MGZlM2E4OGEyZDRiMjdiYTA2MzNmZTViYjgxNGY1ZjE6MTY2ODA5NTEzNw== 
+[10:11:22/16:54:18:802867] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/autor.py 
+[10:11:22/16:54:18:803842] Nom del archiu separat correctament : autor.py  
+[10:11:22/16:54:19:276991] Peticio rebuda correctament :) 
+[10:11:22/16:54:19:277909] Analisis extret correctament 
+[10:11:22/16:54:19:278889] Escriure log report 
+[10:11:22/16:54:19:279867] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:19:279867] (=================================================================) 
+[10:11:22/16:54:19:279867] 
+ 
+[10:11:22/16:54:19:280844] (=================================================================) 
+[10:11:22/16:54:19:281820] Linea del archiu llegida correctament 
+[10:11:22/16:54:19:281820] Linea 73: [10:11:22/16:45:47:142483] Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2ODA5NTE1MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/DirectX 9.0c Repack.exe >-->-->Nom_archiu>-->-->  DirectX 9.0c Repack.exe 
+[10:11:22/16:54:19:282792] ID separat correctament : Nzc3MGQ4MmU3ZmM5ZWU5Y2E2N2UxZTNiN2ViZDkzYjI6MTY2ODA5NTE1MA== 
+[10:11:22/16:54:19:282792] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/DirectX 
+[10:11:22/16:54:19:283780] Nom del archiu separat correctament : DirectX 9.0c Repack.exe  
+[10:11:22/16:54:19:881582] Peticio rebuda correctament :) 
+[10:11:22/16:54:19:882529] Analisis extret correctament 
+[10:11:22/16:54:19:883493] Escriure log report 
+[10:11:22/16:54:19:884470] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:19:884470] (=================================================================) 
+[10:11:22/16:54:19:885451] 
+ 
+[10:11:22/16:54:19:885451] (=================================================================) 
+[10:11:22/16:54:19:886427] Linea del archiu llegida correctament 
+[10:11:22/16:54:19:886427] Linea 74: [10:11:22/16:45:55:531742] YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2ODA5NTE1OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Doc1.docx >-->-->Nom_archiu>-->-->  Doc1.docx 
+[10:11:22/16:54:19:887405] ID separat correctament : YzMxYTFhYzc3ZmQ2N2YzMzI1Y2IyYzZkOWUyODdmMTc6MTY2ODA5NTE1OA== 
+[10:11:22/16:54:19:888380] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Doc1.docx 
+[10:11:22/16:54:19:888380] Nom del archiu separat correctament : Doc1.docx  
+[10:11:22/16:54:20:567028] Peticio rebuda correctament :) 
+[10:11:22/16:54:20:568000] Analisis extret correctament 
+[10:11:22/16:54:20:568937] Escriure log report 
+[10:11:22/16:54:20:569933] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:20:570888] (=================================================================) 
+[10:11:22/16:54:20:570888] 
+ 
+[10:11:22/16:54:20:571864] (=================================================================) 
+[10:11:22/16:54:20:571864] Linea del archiu llegida correctament 
+[10:11:22/16:54:20:572841] Linea 75: [10:11:22/16:45:56:278317] ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2ODA5NTE1OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ejercicio protocolos.xlsx >-->-->Nom_archiu>-->-->  Ejercicio protocolos.xlsx 
+[10:11:22/16:54:20:572841] ID separat correctament : ODc4Mzc3MjY2Zjk2NDUwYjAwMmQ0OTY3NDFkYmFmNWQ6MTY2ODA5NTE1OQ== 
+[10:11:22/16:54:20:573818] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ejercicio 
+[10:11:22/16:54:20:574794] Nom del archiu separat correctament : Ejercicio protocolos.xlsx  
+[10:11:22/16:54:21:017956] Peticio rebuda correctament :) 
+[10:11:22/16:54:21:018960] Analisis extret correctament 
+[10:11:22/16:54:21:019866] Escriure log report 
+[10:11:22/16:54:21:020844] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:21:020844] (=================================================================) 
+[10:11:22/16:54:21:021825] 
+ 
+[10:11:22/16:54:21:022798] (=================================================================) 
+[10:11:22/16:54:21:022798] Linea del archiu llegida correctament 
+[10:11:22/16:54:21:023773] Linea 76: [10:11:22/16:45:56:979678] ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2ODA5NTE2MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py >-->-->Nom_archiu>-->-->  ejerciciocompis.py 
+[10:11:22/16:54:21:024751] ID separat correctament : ZDhmZmNjYWI3Y2VjYTRmMDZhY2U2ZjVhZWYwNjZjZTc6MTY2ODA5NTE2MA== 
+[10:11:22/16:54:21:024751] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/ejerciciocompis.py 
+[10:11:22/16:54:21:025727] Nom del archiu separat correctament : ejerciciocompis.py  
+[10:11:22/16:54:21:368849] Peticio rebuda correctament :) 
+[10:11:22/16:54:21:368849] Analisis extret correctament 
+[10:11:22/16:54:21:369827] Escriure log report 
+[10:11:22/16:54:21:370803] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:21:371781] (=================================================================) 
+[10:11:22/16:54:21:371781] 
+ 
+[10:11:22/16:54:21:372756] (=================================================================) 
+[10:11:22/16:54:21:372756] Linea del archiu llegida correctament 
+[10:11:22/16:54:21:373732] Linea 77: [10:11:22/16:46:01:738387] MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2ODA5NTE2NA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb >-->-->Nom_archiu>-->-->  Ex02acces.accdb 
+[10:11:22/16:54:21:374709] ID separat correctament : MDZkMjFmNDFiMDJkZGFmNTRmYzc4MzY5MjYwZDg0OWE6MTY2ODA5NTE2NA== 
+[10:11:22/16:54:21:374709] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Ex02acces.accdb 
+[10:11:22/16:54:21:375694] Nom del archiu separat correctament : Ex02acces.accdb  
+[10:11:22/16:54:21:899056] Peticio rebuda correctament :) 
+[10:11:22/16:54:21:899988] Analisis extret correctament 
+[10:11:22/16:54:21:900965] Escriure log report 
+[10:11:22/16:54:21:901943] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:21:901943] (=================================================================) 
+[10:11:22/16:54:21:902919] 
+ 
+[10:11:22/16:54:21:903896] (=================================================================) 
+[10:11:22/16:54:21:903896] Linea del archiu llegida correctament 
+[10:11:22/16:54:21:904872] Linea 78: [10:11:22/16:46:02:320737] ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2ODA5NTE2NQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg >-->-->Nom_archiu>-->-->  mecagoen.txt.gpg 
+[10:11:22/16:54:21:904872] ID separat correctament : ODA4OGVkYWRlYzEyNWEyOTY5MjM2M2RkYWQyYWY1NGY6MTY2ODA5NTE2NQ== 
+[10:11:22/16:54:21:905848] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/mecagoen.txt.gpg 
+[10:11:22/16:54:21:905848] Nom del archiu separat correctament : mecagoen.txt.gpg  
+[10:11:22/16:54:22:276630] Peticio rebuda correctament :) 
+[10:11:22/16:54:22:277602] Analisis extret correctament 
+[10:11:22/16:54:22:278578] Escriure log report 
+[10:11:22/16:54:22:278578] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:22:279554] (=================================================================) 
+[10:11:22/16:54:22:280530] 
+ 
+[10:11:22/16:54:22:280530] (=================================================================) 
+[10:11:22/16:54:22:281507] Linea del archiu llegida correctament 
+[10:11:22/16:54:22:281507] Linea 79: [10:11:22/16:46:15:386180] ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2ODA5NTE3OA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/Microsoft Visual C++ Pack v5.4 Repack.exe >-->-->Nom_archiu>-->-->  Microsoft Visual C++ Pack v5.4 Repack.exe 
+[10:11:22/16:54:22:282507] ID separat correctament : ZGQ1NTI5N2JjZThiYTBmYTMxZjkzZGE4NzhiYmJlMjk6MTY2ODA5NTE3OA== 
+[10:11:22/16:54:22:282507] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/Microsoft 
+[10:11:22/16:54:22:283459] Nom del archiu separat correctament : Microsoft Visual C++ Pack v5.4 Repack.exe  
+[10:11:22/16:54:22:649885] Peticio rebuda correctament :) 
+[10:11:22/16:54:22:650862] Analisis extret correctament 
+[10:11:22/16:54:22:651885] Escriure log report 
+[10:11:22/16:54:22:651885] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:22:652818] (=================================================================) 
+[10:11:22/16:54:22:653793] 
+ 
+[10:11:22/16:54:22:653793] (=================================================================) 
+[10:11:22/16:54:22:654770] Linea del archiu llegida correctament 
+[10:11:22/16:54:22:654770] Linea 80: [10:11:22/16:46:16:017818] OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2ODA5NTE3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/programa.py >-->-->Nom_archiu>-->-->  programa.py 
+[10:11:22/16:54:22:655752] ID separat correctament : OWYzMjY5ZDRiMGJlNmI1NmIxMGJhNTNmNjMwMDRiMGY6MTY2ODA5NTE3OQ== 
+[10:11:22/16:54:22:655752] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/programa.py 
+[10:11:22/16:54:22:656722] Nom del archiu separat correctament : programa.py  
+[10:11:22/16:54:23:043497] Peticio rebuda correctament :) 
+[10:11:22/16:54:23:044478] Analisis extret correctament 
+[10:11:22/16:54:23:045457] Escriure log report 
+[10:11:22/16:54:23:045457] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:23:046435] (=================================================================) 
+[10:11:22/16:54:23:047407] 
+ 
+[10:11:22/16:54:23:047407] (=================================================================) 
+[10:11:22/16:54:23:048383] Linea del archiu llegida correctament 
+[10:11:22/16:54:23:048383] Linea 81: [10:11:22/16:46:16:690880] NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2ODA5NTE3OQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/pro_act1.py >-->-->Nom_archiu>-->-->  pro_act1.py 
+[10:11:22/16:54:23:049362] ID separat correctament : NzM0ZmIzMGI3NjMzZGE0ZTRhNDU0ZGE4NTYzYzEzMTI6MTY2ODA5NTE3OQ== 
+[10:11:22/16:54:23:049362] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/pro_act1.py 
+[10:11:22/16:54:23:051312] Nom del archiu separat correctament : pro_act1.py  
+[10:11:22/16:54:23:411730] Peticio rebuda correctament :) 
+[10:11:22/16:54:23:412680] Analisis extret correctament 
+[10:11:22/16:54:23:413657] Escriure log report 
+[10:11:22/16:54:23:413657] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:23:414630] (=================================================================) 
+[10:11:22/16:54:23:414630] 
+ 
+[10:11:22/16:54:23:415609] (=================================================================) 
+[10:11:22/16:54:23:416589] Linea del archiu llegida correctament 
+[10:11:22/16:54:23:416589] Linea 82: [10:11:22/16:46:17:437552] NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2ODA5NTE4MA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/script.py >-->-->Nom_archiu>-->-->  script.py 
+[10:11:22/16:54:23:417605] ID separat correctament : NTg4ZTFmNDUyMDRjYjUyMTQzNTNjYTIyNWM5N2RlZjY6MTY2ODA5NTE4MA== 
+[10:11:22/16:54:23:418537] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/script.py 
+[10:11:22/16:54:23:418537] Nom del archiu separat correctament : script.py  
+[10:11:22/16:54:24:242302] Peticio rebuda correctament :) 
+[10:11:22/16:54:24:243248] Analisis extret correctament 
+[10:11:22/16:54:24:244216] Escriure log report 
+[10:11:22/16:54:24:244216] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:24:245188] (=================================================================) 
+[10:11:22/16:54:24:245188] 
+ 
+[10:11:22/16:54:24:246164] (=================================================================) 
+[10:11:22/16:54:24:247140] Linea del archiu llegida correctament 
+[10:11:22/16:54:24:248122] Linea 83: [10:11:22/16:46:18:111012] NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2ODA5NTE4MQ== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/test.py >-->-->Nom_archiu>-->-->  test.py 
+[10:11:22/16:54:24:248122] ID separat correctament : NDJhZDcxN2EzOWM1M2ViYmJhYjkyYTY3YzA2ZjM2MTI6MTY2ODA5NTE4MQ== 
+[10:11:22/16:54:24:249124] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/test.py 
+[10:11:22/16:54:24:249124] Nom del archiu separat correctament : test.py  
+[10:11:22/16:54:24:644316] Peticio rebuda correctament :) 
+[10:11:22/16:54:24:645327] Analisis extret correctament 
+[10:11:22/16:54:24:646227] Escriure log report 
+[10:11:22/16:54:24:647202] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:24:647202] (=================================================================) 
+[10:11:22/16:54:24:648184] 
+ 
+[10:11:22/16:54:24:649155] (=================================================================) 
+[10:11:22/16:54:24:649155] Linea del archiu llegida correctament 
+[10:11:22/16:54:24:650131] Linea 84: [10:11:22/16:46:41:583868] YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2ODA5NTIwNA== >-->-->Ruta>-->--> C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip >-->-->Nom_archiu>-->-->  vt-py-master.zip 
+[10:11:22/16:54:24:650131] ID separat correctament : YzRhOTYyZTc2YTVkMTU1NDI0YjNmNjZmOTgxY2EzZjM6MTY2ODA5NTIwNA== 
+[10:11:22/16:54:24:651107] Ruta dels fixers serparada correctament : C:/Users/cf2021166/Documents/analitzar/vt-py-master.zip 
+[10:11:22/16:54:24:651107] Nom del archiu separat correctament : vt-py-master.zip  
+[10:11:22/16:54:25:012990] Peticio rebuda correctament :) 
+[10:11:22/16:54:25:013961] Analisis extret correctament 
+[10:11:22/16:54:25:014930] Escriure log report 
+[10:11:22/16:54:25:015916] separar informacio:  malicius :  0 suspicius:  0 
+[10:11:22/16:54:25:016851] (=================================================================) 
+[10:11:22/16:54:25:016851] 
+ 
+[10:11:22/16:54:25:017825] (=================================================================) 
+[10:11:22/16:54:25:017825] Linea del archiu llegida correctament 
+[10:11:22/16:54:25:018802] Linea 85:  
+[10:11:22/16:54:25:018802] Archiu log_id llegit correctament 
+[10:11:22/16:54:25:019778] 
+ 
+[10:11:22/16:54:25:020768] (=================================================================) 
+[10:11:22/16:54:25:020768] Final del Segon Script 
+[10:11:22/16:54:25:021744] Srcipt Finalitzat Correctament ;) 
+[10:11:22/16:54:25:022709] (=================================================================) 
+[10:11:22/16:54:25:022709] 
+ 
